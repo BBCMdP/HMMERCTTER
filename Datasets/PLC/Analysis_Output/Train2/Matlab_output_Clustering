@@ -1,0 +1,852 @@
+
+Command =
+
+cd /home/arjen/16/PLC/Extract;tcsh scriptMidPointTree
+
+Dendroscope on scriptMidPointTree executed!!
+
+Num_min_elem =
+
+     2
+
+
+Alfa =
+
+     0
+
+
+Aligment_Program =
+
+Mafft
+
+
+TreeFile =
+
+/home/arjen/16/PLC/Extract/MidPoint_Tree
+
+
+TrSeqFile =
+
+/home/arjen/16/PLC/Extract/TrSeqFile
+
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {16x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {31x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {31x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {40x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {47x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {54x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {54x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {54x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {59x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {63x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {67x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {70x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {73x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 2
+          prefix: 'preGroup_'
+      list_acept: {76x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/16/PLC/Extract/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/16/PLC/Extract/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Command =
+
+cd /home/arjen/16/PLC/Extract/Training_Output/Dendroscope;tcsh ArbolDendroscope_Final
+
+Dendroscope on ArbolDendroscope_Final executed!!
+clustering
+Clustering Toolbox                      - v.7.3.1- help bbcl     - OPEN version !!!!    
+Report generator Toolbox                - v.3    - help bbrg     - OPEN version !!!!    
+Matlab Library Toolbox                  - v.1    - help matlib   - OPEN version !!!!    
+Microarray Analysis Toolbox             - v.3.1  - help mbbio    - OPEN version !!!!    
+Probabilistic Boolean Networks Toolbox  - v.6.0  - help pbn      - OPEN version !!!!    
+Nonlinear Filters System Toolbox        - v.4.0 - help nfs      - OPEN version !!!!    
+Gene Regulatory Network Model           - v.1.1  - help grn      - OPEN version !!!!    
+Pattern Recognition Toolbox             - v.1    - help pattern  - OPEN version !!!!    
+SNP analysis Toolbox                    - v.3    - help snp      - OPEN version !!!!    

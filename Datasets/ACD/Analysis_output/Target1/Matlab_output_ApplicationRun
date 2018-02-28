@@ -1,0 +1,1320 @@
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+
+Command2 =
+
+perl fetching_Group_2.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_2.pl
+
+Fetching Script fetching_Group_2.pl executed!!
+mafft on fetching_Group_2.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_2.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+
+Command2 =
+
+perl fetching_Group_4.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_4.pl
+
+Fetching Script fetching_Group_4.pl executed!!
+mafft on fetching_Group_4.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_4.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_6.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_6.pl
+
+Fetching Script fetching_Group_6.pl executed!!
+mafft on fetching_Group_6.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_6.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_6.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_6.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_8.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_8.pl
+
+Fetching Script fetching_Group_8.pl executed!!
+mafft on fetching_Group_8.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_8.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_10.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_10.pl
+
+Fetching Script fetching_Group_10.pl executed!!
+mafft on fetching_Group_10.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_10.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+
+Command2 =
+
+perl fetching_Group_11.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_11.pl
+
+Fetching Script fetching_Group_11.pl executed!!
+mafft on fetching_Group_11.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_11.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+
+Command2 =
+
+perl fetching_Group_12.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_12.pl
+
+Fetching Script fetching_Group_12.pl executed!!
+mafft on fetching_Group_12.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_12.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_12.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_12.txt executed!!
+
+Command2 =
+
+perl fetching_Group_13.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_13.pl
+
+Fetching Script fetching_Group_13.pl executed!!
+mafft on fetching_Group_13.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_13.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_13.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_13.txt executed!!
+
+Command2 =
+
+perl fetching_Group_14.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_14.pl
+
+Fetching Script fetching_Group_14.pl executed!!
+mafft on fetching_Group_14.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_14.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_14.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_14.txt executed!!
+
+Command2 =
+
+perl fetching_Group_15.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_15.pl
+
+Fetching Script fetching_Group_15.pl executed!!
+mafft on fetching_Group_15.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_15.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_15.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_15.txt executed!!
+
+Command2 =
+
+perl fetching_Group_16.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_16.pl
+
+Fetching Script fetching_Group_16.pl executed!!
+mafft on fetching_Group_16.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+
+Command2 =
+
+perl fetching_Group_17.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_17.pl
+
+Fetching Script fetching_Group_17.pl executed!!
+mafft on fetching_Group_17.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_17.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_17.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_17.txt executed!!
+
+Command2 =
+
+perl fetching_Group_18.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_18.pl
+
+Fetching Script fetching_Group_18.pl executed!!
+mafft on fetching_Group_18.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_18.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_18.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_18.txt executed!!
+
+Command2 =
+
+perl fetching_Group_19.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_19.pl
+
+Fetching Script fetching_Group_19.pl executed!!
+mafft on fetching_Group_19.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_19.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_19.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_19.txt executed!!
+
+Command2 =
+
+perl fetching_Group_20.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_20.pl
+
+Fetching Script fetching_Group_20.pl executed!!
+mafft on fetching_Group_20.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+
+Command2 =
+
+perl fetching_Group_21.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_21.pl
+
+Fetching Script fetching_Group_21.pl executed!!
+mafft on fetching_Group_21.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_21.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_21.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_21.txt executed!!
+
+Command2 =
+
+perl fetching_Group_22.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_22.pl
+
+Fetching Script fetching_Group_22.pl executed!!
+mafft on fetching_Group_22.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_22.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_22.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_22.txt executed!!
+
+Command2 =
+
+perl fetching_Group_23.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_23.pl
+
+Fetching Script fetching_Group_23.pl executed!!
+mafft on fetching_Group_23.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_23.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_23.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_23.txt executed!!
+
+Command2 =
+
+perl fetching_Group_24.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_24.pl
+
+Fetching Script fetching_Group_24.pl executed!!
+mafft on fetching_Group_24.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_24.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_24.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_24.txt executed!!
+
+Command2 =
+
+perl fetching_Group_25.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_25.pl
+
+Fetching Script fetching_Group_25.pl executed!!
+mafft on fetching_Group_25.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_25.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_25.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_25.txt executed!!
+
+Command2 =
+
+perl fetching_Group_26.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_26.pl
+
+Fetching Script fetching_Group_26.pl executed!!
+mafft on fetching_Group_26.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_26.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_26.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_26.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_2.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_2.pl
+
+Fetching Script fetching_Group_2.pl executed!!
+mafft on fetching_Group_2.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_2.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_4.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_4.pl
+
+Fetching Script fetching_Group_4.pl executed!!
+mafft on fetching_Group_4.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_4.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_6.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_6.pl
+
+Fetching Script fetching_Group_6.pl executed!!
+mafft on fetching_Group_6.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_6.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_6.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_6.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_8.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_8.pl
+
+Fetching Script fetching_Group_8.pl executed!!
+mafft on fetching_Group_8.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_8.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_10.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_10.pl
+
+Fetching Script fetching_Group_10.pl executed!!
+mafft on fetching_Group_10.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_10.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_12.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_12.pl
+
+Fetching Script fetching_Group_12.pl executed!!
+mafft on fetching_Group_12.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_12.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_12.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_12.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_13.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_13.pl
+
+Fetching Script fetching_Group_13.pl executed!!
+mafft on fetching_Group_13.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_13.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_13.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_13.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_14.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_14.pl
+
+Fetching Script fetching_Group_14.pl executed!!
+mafft on fetching_Group_14.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_14.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_14.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_14.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_15.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_15.pl
+
+Fetching Script fetching_Group_15.pl executed!!
+mafft on fetching_Group_15.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_15.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_15.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_15.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_16.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_16.pl
+
+Fetching Script fetching_Group_16.pl executed!!
+mafft on fetching_Group_16.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_17.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_17.pl
+
+Fetching Script fetching_Group_17.pl executed!!
+mafft on fetching_Group_17.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_17.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_17.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_17.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_18.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_18.pl
+
+Fetching Script fetching_Group_18.pl executed!!
+mafft on fetching_Group_18.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_18.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_18.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_18.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_19.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_19.pl
+
+Fetching Script fetching_Group_19.pl executed!!
+mafft on fetching_Group_19.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_19.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_19.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_19.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_20.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_20.pl
+
+Fetching Script fetching_Group_20.pl executed!!
+mafft on fetching_Group_20.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_21.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_21.pl
+
+Fetching Script fetching_Group_21.pl executed!!
+mafft on fetching_Group_21.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_21.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_21.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_21.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_22.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_22.pl
+
+Fetching Script fetching_Group_22.pl executed!!
+mafft on fetching_Group_22.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_22.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_22.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_22.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_23.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_23.pl
+
+Fetching Script fetching_Group_23.pl executed!!
+mafft on fetching_Group_23.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_23.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_23.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_23.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_24.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_24.pl
+
+Fetching Script fetching_Group_24.pl executed!!
+mafft on fetching_Group_24.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_24.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_24.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_24.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_25.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_25.pl
+
+Fetching Script fetching_Group_25.pl executed!!
+mafft on fetching_Group_25.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_25.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_25.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_25.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_26.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_26.pl
+
+Fetching Script fetching_Group_26.pl executed!!
+mafft on fetching_Group_26.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_26.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_26.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_26.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_4.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_4.pl
+
+Fetching Script fetching_Group_4.pl executed!!
+mafft on fetching_Group_4.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_4.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_8.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_8.pl
+
+Fetching Script fetching_Group_8.pl executed!!
+mafft on fetching_Group_8.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_8.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_13.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_13.pl
+
+Fetching Script fetching_Group_13.pl executed!!
+mafft on fetching_Group_13.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_13.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_13.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_13.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_16.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_16.pl
+
+Fetching Script fetching_Group_16.pl executed!!
+mafft on fetching_Group_16.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_17.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_17.pl
+
+Fetching Script fetching_Group_17.pl executed!!
+mafft on fetching_Group_17.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_17.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_17.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_17.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_18.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_18.pl
+
+Fetching Script fetching_Group_18.pl executed!!
+mafft on fetching_Group_18.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_18.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_18.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_18.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_20.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_20.pl
+
+Fetching Script fetching_Group_20.pl executed!!
+mafft on fetching_Group_20.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_23.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_23.pl
+
+Fetching Script fetching_Group_23.pl executed!!
+mafft on fetching_Group_23.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_23.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_23.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_23.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_4.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_4.pl
+
+Fetching Script fetching_Group_4.pl executed!!
+mafft on fetching_Group_4.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_4.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_16.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_16.pl
+
+Fetching Script fetching_Group_16.pl executed!!
+mafft on fetching_Group_16.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_20.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_20.pl
+
+Fetching Script fetching_Group_20.pl executed!!
+mafft on fetching_Group_20.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_16.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_16.pl
+
+Fetching Script fetching_Group_16.pl executed!!
+mafft on fetching_Group_16.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_20.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_20.pl
+
+Fetching Script fetching_Group_20.pl executed!!
+mafft on fetching_Group_20.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+
+Command2 =
+
+perl fetching_Group_2.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_2.pl
+
+Fetching Script fetching_Group_2.pl executed!!
+mafft on fetching_Group_2.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_2.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+
+Command2 =
+
+perl fetching_Group_4.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_4.pl
+
+Fetching Script fetching_Group_4.pl executed!!
+mafft on fetching_Group_4.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_4.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+
+Command2 =
+
+perl fetching_Group_8.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_8.pl
+
+Fetching Script fetching_Group_8.pl executed!!
+mafft on fetching_Group_8.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_8.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+
+Command2 =
+
+perl fetching_Group_8.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_8.pl
+
+Fetching Script fetching_Group_8.pl executed!!
+mafft on fetching_Group_8.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_8.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_12.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_12.pl
+
+Fetching Script fetching_Group_12.pl executed!!
+mafft on fetching_Group_12.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_12.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_12.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_12.txt executed!!
+
+Command2 =
+
+perl fetching_Group_14.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_14.pl
+
+Fetching Script fetching_Group_14.pl executed!!
+mafft on fetching_Group_14.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_14.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_14.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_14.txt executed!!
+
+Command2 =
+
+perl fetching_Group_16.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_16.pl
+
+Fetching Script fetching_Group_16.pl executed!!
+mafft on fetching_Group_16.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_16.txt executed!!
+
+Command2 =
+
+perl fetching_Group_18.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_18.pl
+
+Fetching Script fetching_Group_18.pl executed!!
+mafft on fetching_Group_18.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_18.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_18.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_18.txt executed!!
+
+Command2 =
+
+perl fetching_Group_19.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_19.pl
+
+Fetching Script fetching_Group_19.pl executed!!
+mafft on fetching_Group_19.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_19.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_19.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_19.txt executed!!
+
+Command2 =
+
+perl fetching_Group_19.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_19.pl
+
+Fetching Script fetching_Group_19.pl executed!!
+mafft on fetching_Group_19.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_19.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_19.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_19.txt executed!!
+
+Command2 =
+
+perl fetching_Group_20.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_20.pl
+
+Fetching Script fetching_Group_20.pl executed!!
+mafft on fetching_Group_20.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_20.txt executed!!
+
+Command2 =
+
+perl fetching_Group_21.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_21.pl
+
+Fetching Script fetching_Group_21.pl executed!!
+mafft on fetching_Group_21.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_21.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_21.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_21.txt executed!!
+
+Command2 =
+
+perl fetching_Group_24.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_24.pl
+
+Fetching Script fetching_Group_24.pl executed!!
+mafft on fetching_Group_24.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_24.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_24.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_24.txt executed!!
+
+Command2 =
+
+perl fetching_Group_25.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_25.pl
+
+Fetching Script fetching_Group_25.pl executed!!
+mafft on fetching_Group_25.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_25.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_25.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_25.txt executed!!
+
+Command2 =
+
+perl fetching_Group_26.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Fetching;perl fetching_Group_26.pl
+
+Fetching Script fetching_Group_26.pl executed!!
+mafft on fetching_Group_26.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/MSA_M/Mafft_Group_26.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_26.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/Target/Application/Hmmr-Build/hmm_Group_26.txt executed!!

@@ -1,0 +1,100 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TargetMinusMinus/Application/Hmmr-Build/hmm_Group_25.txt
+# target sequence database:        /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TargetMinusMinus/Application/Fetching/fetching_Group_25.txt
+# show alignments in output:       no
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Mafft_Group_25  [M=160]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence   Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    2.6e-87  280.1   0.5    2.9e-87  279.9   0.5    1.0  1  VV01366300  
+    2.6e-87  280.1   0.5    2.9e-87  279.9   0.5    1.0  1  VV01366300  
+    1.3e-84  271.4   0.3    1.4e-84  271.2   0.3    1.0  1  VV01366500  
+    1.3e-84  271.4   0.3    1.4e-84  271.2   0.3    1.0  1  VV01366500  
+    3.5e-84  269.9   1.8    3.9e-84  269.8   1.8    1.0  1  ME25316m1   
+      4e-83  266.5   0.3    4.5e-83  266.3   0.3    1.0  1  MG017344m   
+    1.8e-82  264.4   3.6      2e-82  264.2   3.6    1.1  1  RC28644931  
+    1.9e-81  261.0   2.1    2.1e-81  260.9   2.1    1.0  1  PP023511m   
+    1.9e-80  257.8   2.1    2.2e-80  257.6   2.1    1.0  1  GM02g08400  
+    1.9e-80  257.8   2.1    2.2e-80  257.6   2.1    1.0  1  GM02g08400  
+      2e-79  254.4   0.1    2.4e-79  254.2   0.1    1.0  1  SL3736_112  
+
+
+Domain annotation for each sequence:
+>> VV01366300  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  279.9   0.5   2.9e-87   2.9e-87       1     159 [.       7     162 ..       7     163 .] 0.98
+
+>> VV01366300  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  279.9   0.5   2.9e-87   2.9e-87       1     159 [.       7     162 ..       7     163 .] 0.98
+
+>> VV01366500  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  271.2   0.3   1.4e-84   1.4e-84       1     160 []       1     157 [.       1     157 [. 0.99
+
+>> VV01366500  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  271.2   0.3   1.4e-84   1.4e-84       1     160 []       1     157 [.       1     157 [. 0.99
+
+>> ME25316m1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  269.8   1.8   3.9e-84   3.9e-84       3     160 .]       2     161 .]       1     161 [] 0.98
+
+>> MG017344m  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  266.3   0.3   4.5e-83   4.5e-83       1     160 []       1     159 []       1     159 [] 0.96
+
+>> RC28644931  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  264.2   3.6     2e-82     2e-82       3     160 .]       2     150 .]       1     150 [] 0.97
+
+>> PP023511m  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  260.9   2.1   2.1e-81   2.1e-81       3     160 .]       1     163 []       1     163 [] 0.95
+
+>> GM02g08400  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  257.6   2.1   2.2e-80   2.2e-80       1     160 []       1     153 []       1     153 [] 0.95
+
+>> GM02g08400  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  257.6   2.1   2.2e-80   2.2e-80       1     160 []       1     153 []       1     153 [] 0.95
+
+>> SL3736_112  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  254.2   0.1   2.4e-79   2.4e-79       2     160 .]       3     163 .]       2     163 .] 0.96
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (160 nodes)
+Target sequences:                           11  (1746 residues searched)
+Passed MSV filter:                        11  (1); expected 0.2 (0.02)
+Passed bias filter:                       11  (1); expected 0.2 (0.02)
+Passed Vit filter:                        11  (1); expected 0.0 (0.001)
+Passed Fwd filter:                        11  (1); expected 0.0 (1e-05)
+Initial search space (Z):                 11  [actual number of targets]
+Domain search space  (domZ):              11  [number of targets reported over threshold]
+# CPU time: 0.01u 0.01s 00:00:00.02 Elapsed: 00:00:00.01
+# Mc/sec: 27.94
+//
+[ok]

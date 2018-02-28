@@ -1,0 +1,7 @@
+#!/bin/csh
+Dendroscope -g -E <<END
+open file='/home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinusTree.txt'
+midpointroot
+save format=newick file='/home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/MidPoint_Tree'
+quit
+END

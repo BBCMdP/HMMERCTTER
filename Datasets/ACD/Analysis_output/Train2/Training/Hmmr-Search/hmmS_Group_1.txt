@@ -1,0 +1,52 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt
+# target sequence database:        /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching/fetching_preGroup_1.txt
+# show alignments in output:       no
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Mafft_preGroup_1  [M=157]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence   Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    2.3e-97  310.7   1.2    2.5e-97  310.6   1.2    1.0  1  VV01366300  
+    1.7e-91  291.7   0.7    1.8e-91  291.5   0.7    1.0  1  VV01366500  
+    6.7e-89  283.2   2.2    7.5e-89  283.0   2.2    1.0  1  GM02g08400  
+
+
+Domain annotation for each sequence:
+>> VV01366300  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  310.6   1.2   2.5e-97   2.5e-97       1     157 []       7     163 .]       7     163 .] 0.99
+
+>> VV01366500  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  291.5   0.7   1.8e-91   1.8e-91       1     157 []       1     157 [.       1     157 [. 0.99
+
+>> GM02g08400  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  283.0   2.2   7.5e-89   7.5e-89       1     157 []       1     153 []       1     153 [] 0.99
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (157 nodes)
+Target sequences:                            3  (475 residues searched)
+Passed MSV filter:                         3  (1); expected 0.1 (0.02)
+Passed bias filter:                        3  (1); expected 0.1 (0.02)
+Passed Vit filter:                         3  (1); expected 0.0 (0.001)
+Passed Fwd filter:                         3  (1); expected 0.0 (1e-05)
+Initial search space (Z):                  3  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.01
+# Mc/sec: 7.46
+//
+[ok]

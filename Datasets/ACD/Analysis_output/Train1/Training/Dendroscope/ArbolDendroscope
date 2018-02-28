@@ -1,0 +1,30 @@
+#!/bin/csh
+Dendroscope -g -E <<END
+open file='/home/arjen/HMMERCTTERv15/FinalStudies/ACD/Train/MidPoint_Tree'
+show nodelabels=false
+show edgelabels=false
+show edgeweights=false
+find searchtext=OS02g12610 target=Nodes
+select induced network
+set color=160  160  160
+show nodelabels=true
+set sparselabels=true
+show edgelabels=false
+show edgeweights=false
+set labelcolor=160  160  160
+deselect all
+find searchtext=VV01366500 target=Nodes
+find searchtext=GM02g08400 target=Nodes
+find searchtext=VV01366300 target=Nodes
+select induced network
+set color=255    0    0
+deselect all
+select all
+set drawer=RadialPhylogram
+show scalebar=false
+deselect all
+exportimage file='/home/arjen/HMMERCTTERv15/FinalStudies/ACD/Train/Training/Dendroscope/Dendroscope_preGroup_1.png'format=PNG REPLACE=true
+exportimage file='/home/arjen/HMMERCTTERv15/FinalStudies/ACD/Train/Training/Dendroscope/Dendroscope_preGroup_1.svg'format=SVG REPLACE=true
+save format=nexml file='/home/arjen/HMMERCTTERv15/FinalStudies/ACD/Train/Training/Dendroscope/Dendroscope_preGroup_1.nexml'
+quit
+END

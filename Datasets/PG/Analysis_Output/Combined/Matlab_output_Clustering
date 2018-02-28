@@ -1,0 +1,2834 @@
+Input parameters:
+/home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/PG_Reference.tree
+/home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/PG_Combined.fsa
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined;tcsh scriptMidPointTree
+
+Dendroscope on scriptMidPointTree executed!!
+
+Num_min_elem =
+
+     3
+
+
+Alfa =
+
+     0
+
+
+Aligment_Program =
+
+Mafft
+
+
+TreeFile =
+
+/home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/MidPoint_Tree
+
+
+TrSeqFile =
+
+/home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/TrSeqFile
+
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {367x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {367x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {673x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {673x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {673x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {673x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {673x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {822x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {822x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {822x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {822x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {949x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {949x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {949x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {949x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {949x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {949x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1022x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1088x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1144x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1200x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1222x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1222x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1222x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1222x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1241x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1241x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1241x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1241x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1257x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1257x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1257x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1257x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1257x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1257x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1267x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1267x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1267x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1276x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1276x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1284x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1284x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1292x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1292x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1299x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1299x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1306x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1313x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1313x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1320x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1326x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1332x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1332x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1332x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1337x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1342x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1342x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1342x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1342x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1342x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1345x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1348x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {1348x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope;tcsh ArbolDendrosco

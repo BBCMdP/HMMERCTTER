@@ -1,0 +1,430 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt
+# target sequence database:        /home/arjen/16/PGCleanTarget/Target11/Application/Fetching/fetching_Group_7.txt
+# show alignments in output:       no
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Mafft_Group_7  [M=404]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence   Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+   2.8e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn128193  
+   2.8e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn129341  
+   2.8e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn133446  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn008379  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn023171  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn023172  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn023173  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn035164  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn044499  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn058834  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn058835  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn058836  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn068503  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn078795  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn096600  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn096615  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn096717  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn104466  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn122595  
+   2.9e-222  729.4  18.8   3.2e-222  729.2  18.8    1.0  1  EFAn148014  
+   2.9e-221  726.1  18.8   3.3e-221  725.9  18.8    1.0  1  A2QK83_1    
+   1.4e-220  723.8  19.1   1.6e-220  723.7  19.1    1.0  1  Q9UUZ2_1    
+   7.5e-212  695.1  18.8   8.4e-212  694.9  18.8    1.0  1  B8NPS8_1    
+   1.2e-211  694.5  18.4   1.3e-211  694.3  18.4    1.0  1  Q2UBD8_1    
+   1.2e-211  694.4  18.4   1.3e-211  694.3  18.4    1.0  1  EFAo007098  
+   3.2e-211  693.0  16.2   3.6e-211  692.8  16.2    1.0  1  A1DBT5_1    
+   3.2e-211  693.0  16.2   3.6e-211  692.8  16.2    1.0  1  EFNfi05942  
+   5.1e-211  692.4  11.9   5.6e-211  692.2  11.9    1.0  1  Q4WBT4_2    
+   1.2e-210  691.1  12.9   1.4e-210  690.9  12.9    1.0  1  B0Y9F8_2    
+   8.9e-210  688.2  16.4     1e-209  688.1  16.4    1.0  1  EFPcr30504  
+   8.9e-210  688.2  16.4     1e-209  688.1  16.4    1.0  1  EFPcr31247  
+   8.9e-210  688.2  16.4     1e-209  688.1  16.4    1.0  1  EFPcr43715  
+     9e-210  688.2  16.4     1e-209  688.1  16.4    1.0  1  EFPcr09535  
+     9e-210  688.2  16.4     1e-209  688.1  16.4    1.0  1  EFPcr18954  
+     9e-210  688.2  16.4     1e-209  688.1  16.4    1.0  1  EFPcr29110  
+     9e-210  688.2  16.4     1e-209  688.1  16.4    1.0  1  EFPcr71261  
+     9e-210  688.2  16.4     1e-209  688.1  16.4    1.0  1  EFPcr71268  
+     9e-210  688.2  16.4     1e-209  688.1  16.4    1.0  1  EFPcr71677  
+   9.5e-202  661.8  23.7   1.1e-201  661.7  23.7    1.0  1  EFTr027253  
+   9.5e-202  661.8  23.7   1.1e-201  661.7  23.7    1.0  1  EFTr037761  
+   9.6e-202  661.8  23.7   1.1e-201  661.7  23.7    1.0  1  EFTr037762  
+   9.6e-202  661.8  23.7   1.1e-201  661.7  23.7    1.0  1  EFTr042542  
+   9.6e-202  661.8  23.7   1.1e-201  661.7  23.7    1.0  1  EFTr078239  
+   9.6e-202  661.8  23.7   1.1e-201  661.7  23.7    1.0  1  EFTr078241  
+   9.6e-202  661.8  23.7   1.1e-201  661.7  23.7    1.0  1  EFTr078268  
+   1.7e-201  661.0  24.4   1.9e-201  660.8  24.4    1.0  1  EFTa036791  
+   1.9e-201  660.8  23.6   2.1e-201  660.7  23.6    1.0  1  EFTa065280  
+   1.9e-201  660.8  23.6   2.1e-201  660.6  23.6    1.0  1  EFTa046035  
+   1.9e-201  660.8  23.6   2.1e-201  660.6  23.6    1.0  1  EFTa082882  
+   1.9e-201  660.8  23.6   2.1e-201  660.6  23.6    1.0  1  EFTa082984  
+   1.9e-201  660.8  23.6   2.1e-201  660.6  23.6    1.0  1  EFTa083138  
+   7.1e-200  655.6  24.9     8e-200  655.5  24.9    1.0  1  EFTa065264  
+   1.6e-199  654.5  24.8   1.7e-199  654.4  24.8    1.0  1  EFTr047904  
+   1.6e-199  654.5  24.8   1.7e-199  654.4  24.8    1.0  1  EFTr047926  
+   6.1e-199  652.6  23.9   6.7e-199  652.4  23.9    1.0  1  EFTa065340  
+   2.3e-196  644.1  15.4   2.8e-196  643.8  15.4    1.0  1  Q5B7U1_1    
+   2.9e-194  637.2  28.7   3.4e-194  636.9  28.7    1.0  1  EFBc000171  
+   6.9e-190  622.7  22.3   7.7e-190  622.6  22.3    1.0  1  EFTr057546  
+   5.2e-180  590.2  10.8   6.1e-180  590.0  10.8    1.0  1  EFFo013090  
+   4.5e-175  573.9  15.7   5.2e-175  573.7  15.7    1.0  1  EFAf007694  
+   9.1e-175  573.0  15.5   1.1e-174  572.7  15.5    1.0  1  EFAo005589  
+     1e-172  566.2  17.9   1.2e-172  566.0  17.9    1.1  1  EFSs004525  
+   2.3e-171  561.7  23.0   2.7e-171  561.5  23.0    1.0  1  EFVaa08429  
+   3.8e-171  561.0  24.9   4.4e-171  560.8  24.9    1.0  1  EFVd008097  
+   3.6e-168  551.2  19.8     4e-168  551.1  19.8    1.0  1  EFAn154900  
+     5e-133  435.5  16.4   5.6e-133  435.3  16.4    1.0  1  EFMp005273  
+
+
+Domain annotation for each sequence:
+>> EFAn128193  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 []       1     406 [] 0.99
+
+>> EFAn129341  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 []       1     406 [] 0.99
+
+>> EFAn133446  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 []       1     406 [] 0.99
+
+>> EFAn008379  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn023171  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn023172  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn023173  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn035164  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn044499  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn058834  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn058835  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn058836  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn068503  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn078795  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn096600  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn096615  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn096717  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn104466  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn122595  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> EFAn148014  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.2  18.8  3.2e-222  3.2e-222       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> A2QK83_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  725.9  18.8  3.3e-221  3.3e-221       1     404 []       1     406 []       1     406 [] 0.99
+
+>> Q9UUZ2_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  723.7  19.1  1.6e-220  1.6e-220       1     404 []       1     406 []       1     406 [] 0.99
+
+>> B8NPS8_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  694.9  18.8  8.4e-212  8.4e-212       4     404 .]       4     406 .]       1     406 [] 0.98
+
+>> Q2UBD8_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  694.3  18.4  1.3e-211  1.3e-211       4     404 .]       4     406 .]       1     406 [] 0.98
+
+>> EFAo007098  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  694.3  18.4  1.3e-211  1.3e-211       4     404 .]       4     406 ..       1     406 [. 0.98
+
+>> A1DBT5_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  692.8  16.2  3.6e-211  3.6e-211       1     404 []       1     406 []       1     406 [] 0.99
+
+>> EFNfi05942  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  692.8  16.2  3.6e-211  3.6e-211       1     404 []       1     406 [.       1     406 [. 0.99
+
+>> Q4WBT4_2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  692.2  11.9  5.6e-211  5.6e-211       4     404 .]       4     406 .]       1     406 [] 0.99
+
+>> B0Y9F8_2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  690.9  12.9  1.4e-210  1.4e-210       4     404 .]       4     406 .]       1     406 [] 0.99
+
+>> EFPcr30504  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.1  16.4    1e-209    1e-209       2     404 .]       2     402 .]       1     402 [] 0.98
+
+>> EFPcr31247  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.1  16.4    1e-209    1e-209       2     404 .]       2     402 .]       1     402 [] 0.98
+
+>> EFPcr43715  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.1  16.4    1e-209    1e-209       2     404 .]       2     402 .]       1     402 [] 0.98
+
+>> EFPcr09535  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.1  16.4    1e-209    1e-209       2     404 .]       2     402 ..       1     402 [. 0.98
+
+>> EFPcr18954  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.1  16.4    1e-209    1e-209       2     404 .]       2     402 ..       1     402 [. 0.98
+
+>> EFPcr29110  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.1  16.4    1e-209    1e-209       2     404 .]       2     402 ..       1     402 [. 0.98
+
+>> EFPcr71261  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.1  16.4    1e-209    1e-209       2     404 .]       2     402 ..       1     402 [. 0.98
+
+>> EFPcr71268  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.1  16.4    1e-209    1e-209       2     404 .]       2     402 ..       1     402 [. 0.98
+
+>> EFPcr71677  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.1  16.4    1e-209    1e-209       2     404 .]       2     402 ..       1     402 [. 0.98
+
+>> EFTr027253  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  661.7  23.7  1.1e-201  1.1e-201       5     404 .]       5     405 .]       1     405 [] 0.97
+
+>> EFTr037761  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  661.7  23.7  1.1e-201  1.1e-201       5     404 .]       5     405 .]       1     405 [] 0.97
+
+>> EFTr037762  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  661.7  23.7  1.1e-201  1.1e-201       5     404 .]       5     405 ..       1     405 [. 0.97
+
+>> EFTr042542  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  661.7  23.7  1.1e-201  1.1e-201       5     404 .]       5     405 ..       1     405 [. 0.97
+
+>> EFTr078239  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  661.7  23.7  1.1e-201  1.1e-201       5     404 .]       5     405 ..       1     405 [. 0.97
+
+>> EFTr078241  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  661.7  23.7  1.1e-201  1.1e-201       5     404 .]       5     405 ..       1     405 [. 0.97
+
+>> EFTr078268  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  661.7  23.7  1.1e-201  1.1e-201       5     404 .]       5     405 ..       1     405 [. 0.97
+
+>> EFTa036791  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  660.8  24.4  1.9e-201  1.9e-201       1     404 []       1     405 [.       1     405 [. 0.99
+
+>> EFTa065280  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  660.7  23.6  2.1e-201  2.1e-201       1     404 []       1     405 []       1     405 [] 0.98
+
+>> EFTa046035  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  660.6  23.6  2.1e-201  2.1e-201       1     404 []       1     405 [.       1     405 [. 0.98
+
+>> EFTa082882  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  660.6  23.6  2.1e-201  2.1e-201       1     404 []       1     405 [.       1     405 [. 0.98
+
+>> EFTa082984  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  660.6  23.6  2.1e-201  2.1e-201       1     404 []       1     405 [.       1     405 [. 0.98
+
+>> EFTa083138  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  660.6  23.6  2.1e-201  2.1e-201       1     404 []       1     405 [.       1     405 [. 0.98
+
+>> EFTa065264  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  655.5  24.9    8e-200    8e-200      10     404 .]       3     398 .]       1     398 [] 0.98
+
+>> EFTr047904  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  654.4  24.8  1.7e-199  1.7e-199      28     404 .]       4     381 .]       1     381 [] 0.99
+
+>> EFTr047926  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  654.4  24.8  1.7e-199  1.7e-199      28     404 .]       4     381 .]       1     381 [] 0.99
+
+>> EFTa065340  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  652.4  23.9  6.7e-199  6.7e-199      27     404 .]       7     385 .]       1     385 [] 0.98
+
+>> Q5B7U1_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  643.8  15.4  2.8e-196  2.8e-196       2     384 ..       2     380 ..       1     397 [. 0.98
+
+>> EFBc000171  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  636.9  28.7  3.4e-194  3.4e-194       3     404 .]       4     412 ..       2     412 .. 0.99
+
+>> EFTr057546  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  622.6  22.3  7.7e-190  7.7e-190      28     383 ..       4     360 .]       1     360 [] 0.99
+
+>> EFFo013090  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  590.0  10.8  6.1e-180  6.1e-180       4     400 ..       5     405 ..       2     406 .. 0.98
+
+>> EFAf007694  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  573.7  15.7  5.2e-175  5.2e-175       3     404 .]       5     405 .]       3     405 .] 0.97
+
+>> EFAo005589  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  572.7  15.5  1.1e-174  1.1e-174       3     404 .]       5     405 ..       3     405 .. 0.97
+
+>> EFSs004525  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  566.0  17.9  1.2e-172  1.2e-172       3     346 ..       4     354 ..       2     375 .. 0.98
+
+>> EFVaa08429  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  561.5  23.0  2.7e-171  2.7e-171       5     404 .]       6     408 ..       2     408 .. 0.96
+
+>> EFVd008097  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  560.8  24.9  4.4e-171  4.4e-171       4     404 .]       5     408 ..       2     408 .. 0.97
+
+>> EFAn154900  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  551.1  19.8    4e-168    4e-168     109     404 .]       1     296 [.       1     296 [. 1.00
+
+>> EFMp005273  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  435.3  16.4  5.6e-133  5.6e-133      73     348 ..       1     273 [.       1     273 [. 0.99
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (404 nodes)
+Target sequences:                           66  (26412 residues searched)
+Passed MSV filter:                        66  (1); expected 1.3 (0.02)
+Passed bias filter:                       66  (1); expected 1.3 (0.02)
+Passed Vit filter:                        66  (1); expected 0.1 (0.001)
+Passed Fwd filter:                        66  (1); expected 0.0 (1e-05)
+Initial search space (Z):                 66  [actual number of targets]
+Domain search space  (domZ):              66  [number of targets reported over threshold]
+# CPU time: 0.46u 0.00s 00:00:00.46 Elapsed: 00:00:00.47
+# Mc/sec: 22.70
+//
+[ok]

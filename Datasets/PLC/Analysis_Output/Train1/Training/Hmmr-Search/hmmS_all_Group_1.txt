@@ -1,0 +1,491 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/arjen/16/PLC/Train/Training/Hmmr-Build/hmm_preGroup_1.txt
+# target sequence database:        /home/arjen/16/PLC/Train/TrSeqFile
+# show alignments in output:       no
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Mafft_preGroup_1  [M=940]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence    Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------    -----------
+          0 1601.9  46.4          0 1601.7  46.4    1.0  1  PLC1_CANAX   
+          0 1488.0   7.4          0 1487.8   7.4    1.0  1  PLC1_SCHPO   
+          0 1368.5  21.4          0 1368.2  21.4    1.1  1  PLC1_YEAST   
+   1.5e-141  465.4   0.0   1.9e-141  465.0   0.0    1.0  1  PLCD4_PIG    
+     9e-138  452.9   0.0   1.1e-137  452.6   0.0    1.2  1  PLCD4_PONAB  
+   2.6e-137  451.4   1.4   5.4e-137  450.3   1.4    1.4  1  PLCD4_XENLA  
+   5.6e-137  450.3   0.0   7.2e-137  449.9   0.0    1.2  1  PLCD4_HUMAN  
+   6.3e-133  436.9   0.1     8e-132  433.2   0.1    2.0  1  PLCD4_MACFA  
+   1.8e-131  432.1   0.0      1e-83  274.0   0.0    1.9  2  PLCD4_BOVIN  
+     6e-131  430.3   0.6   7.7e-131  430.0   0.6    1.0  1  PLCD4_RAT    
+   1.6e-130  428.9   0.0   2.4e-130  428.3   0.0    1.2  1  PLCD1_MOUSE  
+     3e-130  428.0   0.0   5.3e-130  427.2   0.0    1.3  1  PLCD1_BOVIN  
+   3.6e-130  427.8   0.0   5.4e-130  427.2   0.0    1.2  1  PLCD1_RAT    
+     1e-129  426.3   0.0     2e-129  425.3   0.0    1.5  1  PLCD1_HUMAN  
+   3.6e-128  421.1   0.3    1.1e-78  257.4   0.1    2.0  2  PLCD4_MOUSE  
+   5.5e-128  420.5   0.0   1.1e-127  419.5   0.0    1.5  1  PLD3A_DANRE  
+   1.2e-126  416.1   4.4    2.9e-79  259.3   4.6    2.2  2  PLCH1_HUMAN  
+   6.6e-124  407.0   2.8    2.6e-78  256.1   4.4    2.2  2  PLCH1_MOUSE  
+   1.3e-122  402.7   0.2    6.7e-78  254.8   0.3    2.1  2  PLCH2_MOUSE  
+   1.5e-120  395.9   0.0      3e-76  249.3   0.0    2.1  2  PLCH2_HUMAN  
+   4.4e-120  394.4   0.0   8.9e-120  393.4   0.0    1.3  1  PLCD3_MOUSE  
+   7.4e-120  393.6   1.8   9.4e-120  393.3   1.8    1.0  1  PLCZ1_CHICK  
+   9.7e-120  393.2   0.0   1.5e-119  392.6   0.0    1.2  1  PLCD3_HUMAN  
+   4.3e-119  391.1   0.4   6.3e-119  390.5   0.4    1.1  1  PLCZ1_RAT    
+   1.9e-117  385.7   3.4   3.2e-117  384.9   3.4    1.2  1  PLCZ1_MOUSE  
+   9.9e-117  383.3   6.0   1.4e-116  382.7   6.0    1.1  1  PLCZ1_MACFA  
+   1.1e-116  383.2   7.2   1.5e-116  382.7   7.2    1.0  1  PLCZ1_PIG    
+   3.5e-115  378.1   3.7   4.9e-115  377.7   3.7    1.0  1  PLCZ1_BOVIN  
+   8.7e-115  376.8   7.1   2.4e-114  375.4   7.1    1.5  1  PLCZ1_HUMAN  
+   6.5e-114  373.9   6.0   1.1e-113  373.2   6.0    1.2  1  PLCL2_HUMAN  
+   8.6e-114  373.6   5.6   1.5e-113  372.8   5.6    1.3  1  PLCL2_MOUSE  
+   8.9e-113  370.2   0.0    3.2e-70  229.4   0.0    2.3  2  PLCG1_HUMAN  
+     2e-111  365.7   0.0    3.8e-69  225.8   0.0    2.3  2  PLCG1_MOUSE  
+     2e-111  365.7   0.0    6.6e-70  228.3   0.0    2.3  2  PLCG1_BOVIN  
+     2e-111  365.7   0.0    3.7e-69  225.8   0.0    2.3  2  PLCG1_RAT    
+   8.1e-108  353.8   5.3    1.4e-70  230.5   3.2    2.3  2  PLCG2_HUMAN  
+   7.6e-105  343.9   2.7    4.3e-69  225.6   2.2    2.2  2  PLCG2_RAT    
+   8.2e-105  343.8   4.9    1.1e-68  224.3   3.5    2.3  2  PLCG2_MOUSE  
+   2.6e-104  342.2  11.3   5.6e-103  337.8  11.3    1.9  1  PLC_DICDI    
+   9.4e-103  337.0   0.5   9.4e-103  337.0   0.5    3.1  1  PLCB4_RAT    
+   1.4e-102  336.5   0.5   1.4e-102  336.5   0.5    3.2  1  PLCB4_HUMAN  
+     8e-102  333.9   0.3   7.7e-101  330.7   0.3    2.0  1  PLCL1_HUMAN  
+   9.3e-101  330.4   0.9    5.3e-66  215.4   0.1    3.4  4  PLCB4_BOVIN  
+   1.1e-100  330.1   0.1      1e-99  327.0   0.1    1.9  1  PLCL1_RAT    
+     2e-100  329.3   0.0     2e-100  329.3   0.0    2.2  1  PLCB1_BOVIN  
+   2.7e-100  328.9   0.1    2.4e-99  325.8   0.1    1.9  1  PLCL1_MOUSE  
+   4.7e-100  328.1   1.4    8.6e-58  188.2   0.1    3.5  4  PLCE1_RAT    
+      2e-99  326.0   0.0      2e-99  326.0   0.0    2.2  1  PLCB1_HUMAN  
+    2.5e-99  325.7   0.0    2.5e-99  325.7   0.0    2.2  1  PLCB1_RAT    
+    4.5e-99  324.8   0.0    4.5e-99  324.8   0.0    2.2  1  PLCB1_MOUSE  
+    5.6e-99  324.5   1.2    2.8e-57  186.5   0.1    3.5  4  PLCE1_MOUSE  
+    1.1e-96  316.9   8.0    1.2e-57  187.7   0.3    3.5  4  PLCE1_HUMAN  
+    2.2e-96  316.0   0.4    6.4e-60  195.3   0.1    2.2  2  PLCB_CAEEL   
+    3.2e-96  315.4   0.0    1.4e-58  190.9   0.0    2.2  2  PIP1_DROME   
+    3.3e-93  305.4   0.1    3.3e-93  305.4   0.1    2.9  1  PIPA_DROME   
+    6.2e-87  284.7   0.0    1.9e-55  180.5   0.0    2.3  2  PLCB3_RAT    
+    1.8e-86  283.1   0.0    5.1e-55  179.0   0.0    2.3  2  PLCB3_HUMAN  
+    1.9e-86  283.1   0.0    1.9e-86  283.1   0.0    1.6  2  PLCB2_MOUSE  
+    4.7e-86  281.7   0.1    9.3e-55  178.2   0.0    2.5  2  PLCB3_MOUSE  
+    4.8e-86  281.7   0.8    1.1e-85  280.6   0.0    1.8  2  PLCB2_RAT    
+      1e-85  280.7   0.0      1e-85  280.7   0.0    1.9  1  PLCB2_HUMAN  
+    5.4e-67  218.7   0.3    5.1e-66  215.4   0.3    2.0  1  PLCD5_ARATH  
+    3.8e-65  212.6   0.0    9.1e-64  208.0   0.0    2.4  1  PLCD2_ARATH  
+      4e-65  212.5   0.1    1.6e-45  147.6   0.3    2.3  2  PLCD1_ARATH  
+    1.9e-63  207.0   0.0    3.8e-63  205.9   0.0    1.4  1  PLCD6_ARATH  
+    2.4e-62  203.3   0.0      6e-43  139.1   0.0    2.7  2  PLCD3_ARATH  
+      1e-61  201.2   0.0    3.8e-60  196.0   0.0    2.6  1  PLCD7_ARATH  
+    6.1e-61  198.6   0.0    1.2e-40  131.4   0.0    2.1  2  PLCD4_ARATH  
+    1.2e-35  115.0   0.0    1.5e-24   78.2   0.0    2.1  2  PLCD9_ARATH  
+      8e-35  112.2   0.0    3.4e-26   83.7   0.1    2.4  2  PLCD8_ARATH  
+
+
+Domain annotation for each sequence:
+>> PLC1_CANAX  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 1601.7  46.4         0         0       1     940 []       1    1093 [.       1    1093 [. 0.99
+
+>> PLC1_SCHPO  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 1487.8   7.4         0         0       1     939 [.       5     899 .]       5     899 .] 0.99
+
+>> PLC1_YEAST  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 1368.2  21.4         0         0       3     935 ..       3     867 ..       1     869 [] 0.99
+
+>> PLCD4_PIG  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  465.0   0.0  1.9e-141  1.9e-141     299     935 ..     133     762 ..     111     767 .. 0.88
+
+>> PLCD4_PONAB  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  452.6   0.0  1.1e-137  1.1e-137     299     939 ..     126     757 ..      18     758 .. 0.87
+
+>> PLCD4_XENLA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  450.3   1.4  5.4e-137  5.4e-137     167     936 ..      19     748 ..       6     751 .. 0.80
+
+>> PLCD4_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  449.9   0.0  7.2e-137  7.2e-137     299     935 ..     126     752 ..      17     757 .. 0.86
+
+>> PLCD4_MACFA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  433.2   0.1    8e-132    8e-132     300     934 ..     127     788 ..     113     794 .. 0.83
+
+>> PLCD4_BOVIN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  274.0   0.0     1e-83     1e-83     301     597 ..     128     436 ..     104     483 .. 0.89
+   2 !  156.1   0.0   4.2e-48   4.2e-48     652     935 ..     515     781 ..     497     785 .. 0.86
+
+>> PLCD4_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  430.0   0.6  7.7e-131  7.7e-131     301     939 ..     128     767 ..     106     768 .. 0.85
+
+>> PLCD1_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  428.3   0.0  2.4e-130  2.4e-130     168     935 ..      24     753 ..      13     756 .] 0.85
+
+>> PLCD1_BOVIN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  427.2   0.0  5.3e-130  5.3e-130     168     935 ..      24     753 ..      12     756 .] 0.83
+
+>> PLCD1_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  427.2   0.0  5.4e-130  5.4e-130     168     935 ..      24     753 ..      13     756 .] 0.85
+
+>> PLCD1_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  425.3   0.0    2e-129    2e-129     168     935 ..      24     753 ..      11     756 .] 0.84
+
+>> PLCD4_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  257.4   0.1   1.1e-78   1.1e-78     304     599 ..     135     438 ..     113     499 .. 0.87
+   2 !  162.1   0.0   6.9e-50   6.9e-50     654     939 ..     533     802 ..     509     803 .. 0.86
+
+>> PLD3A_DANRE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  419.5   0.0  1.1e-127  1.1e-127     299     935 ..     151     766 ..      15     769 .. 0.84
+
+>> PLCH1_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  259.3   4.6   2.9e-79   2.9e-79     166     599 ..      22     447 ..       8     500 .. 0.84
+   2 !  154.3   0.0   1.5e-47   1.5e-47     609     935 ..     546     854 ..     529     859 .. 0.81
+
+>> PLCH1_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  256.1   4.4   2.6e-78   2.6e-78     166     599 ..      22     447 ..       8     500 .. 0.84
+   2 !  147.0   0.0   2.4e-45   2.4e-45     595     935 ..     536     855 ..     525     860 .. 0.76
+
+>> PLCH2_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  254.8   0.3   6.7e-78   6.7e-78     166     614 ..     123     563 ..     100     606 .. 0.76
+   2 !  145.8   0.0   5.8e-45   5.8e-45     626     934 ..     675     960 ..     645     966 .. 0.78
+
+>> PLCH2_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  249.3   0.0     3e-76     3e-76     167     640 ..      50     514 ..      28     540 .. 0.75
+   2 !  144.5   0.0   1.3e-44   1.3e-44     619     934 ..     588     879 ..     568     885 .. 0.79
+
+>> PLCD3_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  393.4   0.0  8.9e-120  8.9e-120     303     935 ..     174     781 ..     153     784 .. 0.87
+
+>> PLCZ1_CHICK  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  393.3   1.8  9.4e-120  9.4e-120     321     933 ..      19     633 ..      12     635 .. 0.87
+
+>> PLCD3_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  392.6   0.0  1.5e-119  1.5e-119     303     935 ..     178     785 ..     148     788 .. 0.89
+
+>> PLCZ1_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  390.5   0.4  6.3e-119  6.3e-119     326     933 ..      30     639 ..      17     642 .. 0.86
+
+>> PLCZ1_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  384.9   3.4  3.2e-117  3.2e-117     325     933 ..      30     641 ..      15     644 .. 0.85
+
+>> PLCZ1_MACFA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  382.7   6.0  1.4e-116  1.4e-116     321     933 ..      18     636 ..       7     638 .. 0.83
+
+>> PLCZ1_PIG  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  382.7   7.2  1.5e-116  1.5e-116     321     933 ..      18     631 ..      10     633 .. 0.85
+
+>> PLCZ1_BOVIN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  377.7   3.7  4.9e-115  4.9e-115     322     933 ..      19     629 ..      11     631 .. 0.86
+
+>> PLCZ1_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  375.4   7.1  2.4e-114  2.4e-114     321     933 ..      18     603 ..       7     605 .. 0.85
+
+>> PLCL2_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  373.2   6.0  1.1e-113  1.1e-113     205     935 ..     180     879 ..     106     882 .. 0.79
+
+>> PLCL2_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  372.8   5.6  1.5e-113  1.5e-113     205     935 ..     181     880 ..     107     883 .. 0.79
+
+>> PLCG1_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  229.4   0.0   3.2e-70   3.2e-70     201     601 ..      59     469 ..      41     492 .. 0.80
+   2 !  138.0   0.0   1.2e-42   1.2e-42     644     935 ..     938    1210 ..     900    1212 .. 0.87
+
+>> PLCG1_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  225.8   0.0   3.8e-69   3.8e-69     201     601 ..      59     469 ..      36     492 .. 0.80
+   2 !  137.2   0.0   2.2e-42   2.2e-42     641     935 ..     935    1210 ..     901    1212 .. 0.87
+
+>> PLCG1_BOVIN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  228.3   0.0   6.6e-70   6.6e-70     201     601 ..      59     469 ..      26     491 .. 0.79
+   2 !  134.8   0.0   1.2e-41   1.2e-41     641     935 ..     935    1210 ..     900    1212 .. 0.87
+
+>> PLCG1_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  225.8   0.0   3.7e-69   3.7e-69     201     601 ..      59     469 ..      27     491 .. 0.80
+   2 !  137.3   0.0   2.1e-42   2.1e-42     641     935 ..     935    1210 ..     901    1212 .. 0.87
+
+>> PLCG2_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  230.5   3.2   1.4e-70   1.4e-70     195     597 ..      45     457 ..       4     469 .. 0.80
+   2 !  122.9   0.0   4.7e-38   4.7e-38     650     932 ..     921    1182 ..     905    1190 .. 0.84
+
+>> PLCG2_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  225.6   2.2   4.3e-69   4.3e-69     193     597 ..      43     457 ..       7     471 .. 0.76
+   2 !  116.5   0.0     4e-36     4e-36     653     932 ..     924    1182 ..     907    1190 .. 0.81
+
+>> PLCG2_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  224.3   3.5   1.1e-68   1.1e-68     194     597 ..      44     457 ..      38     467 .. 0.78
+   2 !  118.0   0.0   1.4e-36   1.4e-36     652     932 ..     923    1182 ..     906    1190 .. 0.81
+
+>> PLC_DICDI  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  337.8  11.3  5.6e-103  5.6e-103     149     919 ..      36     782 ..       3     786 .. 0.79
+
+>> PLCB4_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  337.0   0.5  9.4e-103  9.4e-103     356     934 ..     202     818 ..     174     826 .. 0.79
+
+>> PLCB4_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  336.5   0.5  1.4e-102  1.4e-102     357     934 ..     203     818 ..     173     826 .. 0.79
+
+>> PLCL1_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  330.7   0.3  7.7e-101  7.7e-101     208     935 ..     155     846 ..      76     849 .. 0.83
+
+>> PLCB4_BOVIN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  215.4   0.1   5.3e-66   5.3e-66     356     639 ..      38     340 ..      18     354 .. 0.81
+   2 !  122.9   0.1   4.6e-38   4.6e-38     652     934 ..     406     666 ..     354     674 .. 0.80
+   3 ?   -0.7   3.7       1.1       1.1     361     460 ..     771     877 ..     762     882 .. 0.75
+   4 ?   -2.7   0.6       4.3       4.3     584     636 ..     894     952 ..     884     994 .. 0.42
+
+>> PLCL1_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  327.0   0.1     1e-99     1e-99     208     935 ..     156     847 ..      93     850 .. 0.83
+
+>> PLCB1_BOVIN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  329.3   0.0    2e-100    2e-100     363     938 ..     212     797 ..     188     799 .. 0.80
+
+>> PLCL1_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  325.8   0.1   2.4e-99   2.4e-99     208     935 ..     156     847 ..      91     850 .. 0.83
+
+>> PLCE1_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -1.9   0.1       2.4       2.4     354     386 ..    1190    1224 ..    1182    1233 .. 0.70
+   2 !  188.2   0.1   8.6e-58   8.6e-58     394     605 ..    1309    1533 ..    1303    1577 .. 0.81
+   3 ?   -0.5   0.0       0.9       0.9     648     675 ..    1635    1662 ..    1610    1668 .. 0.87
+   4 !  135.8   0.0   5.8e-42   5.8e-42     683     935 ..    1734    1965 ..    1728    1970 .. 0.88
+
+>> PLCB1_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  326.0   0.0     2e-99     2e-99     363     938 ..     212     797 ..     188     799 .. 0.80
+
+>> PLCB1_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  325.7   0.0   2.5e-99   2.5e-99     363     938 ..     212     797 ..     200     799 .. 0.79
+
+>> PLCB1_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  324.8   0.0   4.5e-99   4.5e-99     363     938 ..     212     797 ..     200     799 .. 0.79
+
+>> PLCE1_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -1.6   0.1       1.9       1.9     354     386 ..    1190    1224 ..    1181    1232 .. 0.69
+   2 !  186.5   0.1   2.8e-57   2.8e-57     394     598 ..    1309    1523 ..    1303    1571 .. 0.83
+   3 ?   -0.4   0.0      0.81      0.81     648     676 ..    1635    1663 ..    1610    1670 .. 0.87
+   4 !  133.6   0.0   2.7e-41   2.7e-41     683     935 ..    1735    1966 ..    1730    1971 .. 0.88
+
+>> PLCE1_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -3.7   0.1       8.4       8.4     354     386 ..    1209    1243 ..    1203    1246 .. 0.69
+   2 !  187.7   0.3   1.2e-57   1.2e-57     394     598 ..    1328    1542 ..    1322    1590 .. 0.83
+   3 ?   -0.8   0.0       1.1       1.1     648     675 ..    1654    1681 ..    1631    1686 .. 0.88
+   4 !  131.9   0.0   8.7e-41   8.7e-41     683     935 ..    1755    1986 ..    1750    1991 .. 0.87
+
+>> PLCB_CAEEL  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  195.3   0.1   6.4e-60   6.4e-60     357     602 ..     227     497 ..     156     530 .. 0.86
+   2 !  118.5   0.0   9.9e-37   9.9e-37     659     934 ..     758    1012 ..     747    1017 .. 0.84
+
+>> PIP1_DROME  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  190.9   0.0   1.4e-58   1.4e-58     349     615 ..     199     484 ..     192     522 .. 0.81
+   2 !  122.2   0.0   7.5e-38   7.5e-38     626     934 ..     563     852 ..     542     858 .. 0.77
+
+>> PIPA_DROME  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  305.4   0.1   3.3e-93   3.3e-93     361     919 ..     210     788 ..     197     807 .. 0.75
+
+>> PLCB3_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  180.5   0.0   1.9e-55   1.9e-55     347     629 ..     195     501 ..     128     516 .. 0.81
+   2 !  101.6   0.0   1.2e-31   1.2e-31     634     935 ..     562     842 ..     547     847 .. 0.71
+
+>> PLCB3_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  179.0   0.0   5.1e-55   5.1e-55     333     603 ..     183     475 ..     133     516 .. 0.81
+   2 !  101.6   0.0   1.3e-31   1.3e-31     646     935 ..     577     843 ..     552     848 .. 0.71
+
+>> PLCB2_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  283.1   0.0   1.9e-86   1.9e-86     363     935 ..     208     801 ..     189     806 .. 0.78
+   2 ?   -3.6   2.0       7.6       7.6      52     131 ..     987    1074 ..     975    1118 .. 0.55
+
+>> PLCB3_MOUSE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  178.2   0.0   9.3e-55   9.3e-55     347     629 ..     197     503 ..     131     518 .. 0.80
+   2 !  100.9   0.0   2.1e-31   2.1e-31     633     935 ..     563     844 ..     534     849 .. 0.72
+
+>> PLCB2_RAT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  280.6   0.0   1.1e-85   1.1e-85     363     935 ..     208     804 ..     184     809 .. 0.78
+   2 ?   -2.9   2.1       4.8       4.8      52     131 ..     989    1076 ..     978    1125 .. 0.56
+
+>> PLCB2_HUMAN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  280.7   0.0     1e-85     1e-85     363     937 ..     208     802 ..     155     805 .. 0.79
+
+>> PLCD5_ARATH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  215.4   0.3   5.1e-66   5.1e-66     374     933 ..      27     574 ..      24     576 .. 0.77
+
+>> PLCD2_ARATH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  208.0   0.0   9.1e-64   9.1e-64     374     935 ..      25     579 ..      21     580 .. 0.81
+
+>> PLCD1_ARATH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  147.6   0.3   1.6e-45   1.6e-45     374     632 ..      24     286 ..       7     305 .. 0.87
+   2 !   62.1   0.0   1.1e-19   1.1e-19     687     932 ..     323     554 ..     319     559 .. 0.80
+
+>> PLCD6_ARATH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  205.9   0.0   3.8e-63   3.8e-63     428     925 ..     114     601 ..      91     610 .. 0.78
+
+>> PLCD3_ARATH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  139.1   0.0     6e-43     6e-43     376     621 ..      26     272 ..      17     296 .. 0.81
+   2 !   60.6   0.0   3.1e-19   3.1e-19     687     925 ..     325     546 ..     322     556 .. 0.66
+
+>> PLCD7_ARATH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  196.0   0.0   3.8e-60   3.8e-60     374     923 ..      25     570 ..      13     582 .. 0.77
+
+>> PLCD4_ARATH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  131.4   0.0   1.2e-40   1.2e-40     374     598 ..      29     259 ..      27     312 .. 0.85
+   2 !   65.1   0.0   1.3e-20   1.3e-20     687     931 ..     362     591 ..     358     595 .. 0.78
+
+>> PLCD9_ARATH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   78.2   0.0   1.5e-24   1.5e-24     432     596 ..      87     253 ..      59     283 .. 0.85
+   2 !   34.7   0.0   2.1e-11   2.1e-11     728     923 ..     337     517 ..     318     528 .. 0.82
+
+>> PLCD8_ARATH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   83.7   0.1   3.4e-26   3.4e-26     429     594 ..      83     245 ..      78     255 .. 0.89
+   2 !   25.8   0.0     1e-08     1e-08     715     923 ..     324     517 ..     316     528 .. 0.83
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (940 nodes)
+Target sequences:                           70  (71860 residues searched)
+Passed MSV filter:                        70  (1); expected 1.4 (0.02)
+Passed bias filter:                       70  (1); expected 1.4 (0.02)
+Passed Vit filter:                        70  (1); expected 0.1 (0.001)
+Passed Fwd filter:                        70  (1); expected 0.0 (1e-05)
+Initial search space (Z):                 70  [actual number of targets]
+Domain search space  (domZ):              70  [number of targets reported over threshold]
+# CPU time: 3.38u 0.01s 00:00:03.38 Elapsed: 00:00:03.40
+# Mc/sec: 19.87
+//
+[ok]

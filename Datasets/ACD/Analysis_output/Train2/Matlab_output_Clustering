@@ -1,0 +1,1763 @@
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus;tcsh scriptMidPointTree
+
+Dendroscope on scriptMidPointTree executed!!
+
+Num_min_elem =
+
+     3
+
+
+Alfa =
+
+     0
+
+
+Aligment_Program =
+
+Mafft
+
+
+TreeFile =
+
+/home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/MidPoint_Tree
+
+
+TrSeqFile =
+
+/home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/TrSeqFile
+
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: []
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {79x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {109x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {109x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {109x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {134x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {134x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {155x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {155x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {175x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {193x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {210x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {226x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {241x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {255x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {268x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {279x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {290x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {300x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {310x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {318x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {325x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {332x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {339x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {346x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {353x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {359x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {365x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Spec = 
+
+            alfa: 0
+    num_elem_min: 3
+          prefix: 'preGroup_'
+      list_acept: {370x1 cell}
+
+
+ans =
+
+     0
+
+Run analysis program
+
+Command2 =
+
+perl fetching_preGroup_1.pl
+
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Fetching;perl fetching_preGroup_1.pl
+
+Fetching Script fetching_preGroup_1.pl executed!!
+mafft on fetching_preGroup_1.txt executed!!
+hmmer build on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/MSA_M/Mafft_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+hmmer search on /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Hmmr-Build/hmm_preGroup_1.txt executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training/Dendroscope;tcsh ArbolDendroscope
+
+Dendroscope on ArbolDendroscope executed!!
+
+Command =
+
+cd /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training_Output/Dendroscope;tcsh ArbolDendroscope_Final
+
+Dendroscope on ArbolDendroscope_Final executed!!
+Classification
+Clustering Toolbox                      - v.7.3.1- help bbcl     - OPEN version !!!!    
+Report generator Toolbox                - v.3    - help bbrg     - OPEN version !!!!    
+Matlab Library Toolbox                  - v.1    - help matlib   - OPEN version !!!!    
+Microarray Analysis Toolbox             - v.3.1  - help mbbio    - OPEN version !!!!    
+Probabilistic Boolean Networks Toolbox  - v.6.0  - help pbn      - OPEN version !!!!    
+Nonlinear Filters System Toolbox        - v.4.0 - help nfs      - OPEN version !!!!    
+Gene Regulatory Network Model           - v.1.1  - help grn      - OPEN version !!!!    
+Pattern Recognition Toolbox             - v.1    - help pattern  - OPEN version !!!!    
+SNP analysis Toolbox                    - v.3    - help snp      - OPEN version !!!!    
+Application File /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TargetMinus/ApSeqFile generated!!

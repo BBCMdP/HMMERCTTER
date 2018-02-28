@@ -1,0 +1,70 @@
+#!/bin/csh
+Dendroscope -g -E <<END
+open file='/home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/MidPoint_Tree'
+show nodelabels=false
+show edgelabels=false
+show edgeweights=false
+find searchtext=P15922_1 target=Nodes
+find searchtext=EPRMb03294 target=Nodes
+find searchtext=BSb0000805 target=Nodes
+find searchtext=BSu0003738 target=Nodes
+find searchtext=BPm0002723 target=Nodes
+find searchtext=EFLm009897 target=Nodes
+find searchtext=Q00293_1 target=Nodes
+find searchtext=Q27UB3_1 target=Nodes
+find searchtext=EFAn040323 target=Nodes
+find searchtext=EFAn003359 target=Nodes
+find searchtext=EFAn029921 target=Nodes
+find searchtext=EFAn130347 target=Nodes
+find searchtext=EFAn064532 target=Nodes
+find searchtext=EFAn109090 target=Nodes
+find searchtext=EFAn051176 target=Nodes
+find searchtext=EFAn087483 target=Nodes
+find searchtext=EFAn131675 target=Nodes
+find searchtext=EFAn051178 target=Nodes
+find searchtext=EFAn086796 target=Nodes
+find searchtext=EFAn051177 target=Nodes
+find searchtext=EFAn086915 target=Nodes
+find searchtext=EFAn128213 target=Nodes
+find searchtext=EFAn015528 target=Nodes
+find searchtext=EFAn073712 target=Nodes
+find searchtext=EFAn015529 target=Nodes
+find searchtext=EFAn015527 target=Nodes
+find searchtext=EFAn109091 target=Nodes
+find searchtext=Q0CGP0_1 target=Nodes
+find searchtext=Q5ASG9_1 target=Nodes
+find searchtext=EFAo005015 target=Nodes
+find searchtext=B8NG16_1 target=Nodes
+find searchtext=EFNfi05992 target=Nodes
+find searchtext=EFTv015823 target=Nodes
+find searchtext=EFTv047456 target=Nodes
+find searchtext=EFTr027252 target=Nodes
+find searchtext=EFTr037759 target=Nodes
+find searchtext=EFTr037760 target=Nodes
+find searchtext=EFTr042541 target=Nodes
+find searchtext=EFCgr02402 target=Nodes
+find searchtext=EFBc010132 target=Nodes
+find searchtext=EFSs004182 target=Nodes
+select induced network
+set color=160  160  160
+show nodelabels=true
+set sparselabels=true
+show edgelabels=false
+show edgeweights=false
+set labelcolor=160  160  160
+deselect all
+find searchtext=BPm0001788 target=Nodes
+find searchtext=BSu0002817 target=Nodes
+find searchtext=P27644_1 target=Nodes
+select induced network
+set color=255    0    0
+deselect all
+select all
+set drawer=RadialPhylogram
+show scalebar=false
+deselect all
+exportimage file='/home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope/Dendroscope_preGroup_1.png'format=PNG REPLACE=true
+exportimage file='/home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope/Dendroscope_preGroup_1.svg'format=SVG REPLACE=true
+save format=nexml file='/home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/Training/Dendroscope/Dendroscope_preGroup_1.nexml'
+quit
+END

@@ -1,0 +1,7 @@
+#!/bin/csh
+Dendroscope -g -E <<END
+open file='/home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/PG_Reference.tree'
+midpointroot
+save format=newick file='/home/arjen/Dropbox/5_Publications/2_CTTer/Repo/Datasets/PG/Analysis_Output/Combined/MidPoint_Tree'
+quit
+END

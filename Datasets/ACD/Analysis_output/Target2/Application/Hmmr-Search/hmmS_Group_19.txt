@@ -1,0 +1,154 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TargetMinusMinus/Application/Hmmr-Build/hmm_Group_19.txt
+# target sequence database:        /home/arjen/HMMERCTTERv15/FinalStudies/ACD/TargetMinusMinus/Application/Fetching/fetching_Group_19.txt
+# show alignments in output:       no
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Mafft_Group_19  [M=228]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence   Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+   5.7e-104  337.5   0.2   7.5e-104  337.1   0.2    1.1  1  OS03g45330  
+   5.7e-104  337.5   0.2   7.5e-104  337.1   0.2    1.1  1  OS03g45330  
+    3.1e-81  263.1   9.2    1.2e-80  261.2   9.2    1.7  1  ZM1269721   
+    3.1e-81  263.1   9.2    1.2e-80  261.2   9.2    1.7  1  ZM1269721   
+    4.4e-77  249.5   0.5    5.4e-77  249.2   0.5    1.0  1  BD1g13280   
+    6.1e-74  239.3   1.4    7.7e-74  238.9   1.4    1.0  1  SB01g02118  
+      2e-67  218.0   0.4    2.5e-67  217.6   0.4    1.0  1  ZM3526271   
+      2e-67  218.0   0.4    2.5e-67  217.6   0.4    1.0  1  ZM3526271   
+    1.1e-62  202.4   0.8      1e-49  160.0   0.0    2.0  2  BD3g27360   
+    4.6e-62  200.4   0.0    5.5e-62  200.2   0.0    1.0  1  BD3g27350   
+    1.3e-61  198.9   0.3    1.4e-47  153.0   0.0    2.0  2  SB01g02117  
+    6.6e-61  196.6   0.9      7e-60  193.3   0.9    1.9  1  ZM4657231   
+    6.6e-61  196.6   0.9      7e-60  193.3   0.9    1.9  1  ZM4657231   
+    2.2e-58  188.4   0.9    2.5e-50  162.0   0.0    2.0  2  OS10g30180  
+    2.2e-58  188.4   0.9    2.5e-50  162.0   0.0    2.0  2  OS10g30180  
+    5.8e-58  187.0   7.0    1.2e-57  186.0   7.0    1.5  1  OS03g06170  
+    5.8e-58  187.0   7.0    1.2e-57  186.0   7.0    1.5  1  OS03g06170  
+    7.2e-54  173.6   0.6    3.7e-51  164.7   0.0    2.0  2  OS10g30162  
+    7.2e-54  173.6   0.6    3.7e-51  164.7   0.0    2.0  2  OS10g30162  
+
+
+Domain annotation for each sequence:
+>> OS03g45330  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  337.1   0.2  7.5e-104  7.5e-104       1     228 []     128     382 .]     128     382 .] 0.98
+
+>> OS03g45330  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  337.1   0.2  7.5e-104  7.5e-104       1     228 []     128     382 .]     128     382 .] 0.98
+
+>> ZM1269721  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  261.2   9.2   1.2e-80   1.2e-80       7     226 ..       1     247 [.       1     252 [. 0.94
+
+>> ZM1269721  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  261.2   9.2   1.2e-80   1.2e-80       7     226 ..       1     247 [.       1     252 [. 0.94
+
+>> BD1g13280  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  249.2   0.5   5.4e-77   5.4e-77       1     227 [.       4     249 ..       4     250 .. 0.91
+
+>> SB01g02118  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  238.9   1.4   7.7e-74   7.7e-74       7     226 ..       1     208 [.       1     211 [. 0.90
+
+>> ZM3526271  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  217.6   0.4   2.5e-67   2.5e-67       7     225 ..       1     193 [.       1     197 [. 0.93
+
+>> ZM3526271  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  217.6   0.4   2.5e-67   2.5e-67       7     225 ..       1     193 [.       1     197 [. 0.93
+
+>> BD3g27360  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  160.0   0.0     1e-49     1e-49       5     116 ..       2     111 ..       1     120 [. 0.90
+   2 !   43.3   0.2   4.8e-14   4.8e-14     157     228 .]     113     179 ..     102     179 .. 0.81
+
+>> BD3g27350  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  200.2   0.0   5.5e-62   5.5e-62       6     225 ..       1     199 [.       1     203 [. 0.93
+
+>> SB01g02117  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.0   0.0   1.4e-47   1.4e-47       5     107 ..       2     107 ..       1     113 [. 0.94
+   2 !   46.6   0.1   4.7e-15   4.7e-15     147     225 ..     107     188 ..     102     189 .] 0.90
+
+>> ZM4657231  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  193.3   0.9     7e-60     7e-60       3     228 .]       1     192 [.       1     192 [. 0.93
+
+>> ZM4657231  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  193.3   0.9     7e-60     7e-60       3     228 .]       1     192 [.       1     192 [. 0.93
+
+>> OS10g30180  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  162.0   0.0   2.5e-50   2.5e-50       1     130 [.       4     140 ..       4     143 .. 0.83
+   2 !   29.7   1.0     7e-10     7e-10     168     225 ..     126     178 ..     120     180 .. 0.75
+
+>> OS10g30180  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  162.0   0.0   2.5e-50   2.5e-50       1     130 [.       4     140 ..       4     143 .. 0.83
+   2 !   29.7   1.0     7e-10     7e-10     168     225 ..     126     178 ..     120     180 .. 0.75
+
+>> OS03g06170  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  186.0   7.0   1.2e-57   1.2e-57       1     226 [.       1     189 [.       1     198 [. 0.90
+
+>> OS03g06170  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  186.0   7.0   1.2e-57   1.2e-57       1     226 [.       1     189 [.       1     198 [. 0.90
+
+>> OS10g30162  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  164.7   0.0   3.7e-51   3.7e-51       7     140 ..       2     127 ..       1     131 [. 0.90
+   2 !    8.4   0.1    0.0023    0.0023     197     225 ..     130     156 ..     126     160 .. 0.81
+
+>> OS10g30162  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  164.7   0.0   3.7e-51   3.7e-51       7     140 ..       2     127 ..       1     131 [. 0.90
+   2 !    8.4   0.1    0.0023    0.0023     197     225 ..     130     156 ..     126     160 .. 0.81
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (228 nodes)
+Target sequences:                           19  (4236 residues searched)
+Passed MSV filter:                        19  (1); expected 0.4 (0.02)
+Passed bias filter:                       19  (1); expected 0.4 (0.02)
+Passed Vit filter:                        19  (1); expected 0.0 (0.001)
+Passed Fwd filter:                        19  (1); expected 0.0 (1e-05)
+Initial search space (Z):                 19  [actual number of targets]
+Domain search space  (domZ):              19  [number of targets reported over threshold]
+# CPU time: 0.16u 0.00s 00:00:00.16 Elapsed: 00:00:00.16
+# Mc/sec: 6.04
+//
+[ok]

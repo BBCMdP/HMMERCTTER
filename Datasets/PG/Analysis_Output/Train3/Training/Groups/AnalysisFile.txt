@@ -1,0 +1,5 @@
+Id_Group	FP	User
+G_1	NO	NO
+G_2	NO	YES
+G_10	NO	YES
+G_21	NO	YES

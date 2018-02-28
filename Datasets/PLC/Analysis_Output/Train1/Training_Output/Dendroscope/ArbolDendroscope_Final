@@ -1,0 +1,111 @@
+#!/bin/csh
+Dendroscope -g -E <<END
+open file='/home/arjen/16/PLC/Train/MidPoint_Tree'
+show nodelabels=false
+show edgelabels=false
+show edgeweights=false
+find searchtext=PLCB_CAEEL target=Nodes
+find searchtext=PIPA_DROME target=Nodes
+find searchtext=PLCB4_RAT target=Nodes
+find searchtext=PLCB4_BOVIN target=Nodes
+find searchtext=PLCB4_HUMAN target=Nodes
+find searchtext=PIP1_DROME target=Nodes
+find searchtext=PLCB2_HUMAN target=Nodes
+find searchtext=PLCB2_MOUSE target=Nodes
+find searchtext=PLCB2_RAT target=Nodes
+find searchtext=PLCB3_HUMAN target=Nodes
+find searchtext=PLCB3_RAT target=Nodes
+find searchtext=PLCB3_MOUSE target=Nodes
+find searchtext=PLCB1_HUMAN target=Nodes
+find searchtext=PLCB1_BOVIN target=Nodes
+find searchtext=PLCB1_RAT target=Nodes
+find searchtext=PLCB1_MOUSE target=Nodes
+select induced network
+set color=255    0    0
+deselect all
+find searchtext=PLCD4_XENLA target=Nodes
+find searchtext=PLCD4_MOUSE target=Nodes
+find searchtext=PLCD4_RAT target=Nodes
+find searchtext=PLCD4_HUMAN target=Nodes
+find searchtext=PLCD4_MACFA target=Nodes
+find searchtext=PLCD4_PONAB target=Nodes
+find searchtext=PLCD4_BOVIN target=Nodes
+find searchtext=PLCD4_PIG target=Nodes
+find searchtext=PLCD1_BOVIN target=Nodes
+find searchtext=PLCD1_HUMAN target=Nodes
+find searchtext=PLCD1_RAT target=Nodes
+find searchtext=PLCD1_MOUSE target=Nodes
+find searchtext=PLD3A_DANRE target=Nodes
+find searchtext=PLCD3_MOUSE target=Nodes
+find searchtext=PLCD3_HUMAN target=Nodes
+select induced network
+set color=0    0  255
+deselect all
+find searchtext=PLCD3_ARATH target=Nodes
+find searchtext=PLCD1_ARATH target=Nodes
+find searchtext=PLCD2_ARATH target=Nodes
+find searchtext=PLCD7_ARATH target=Nodes
+find searchtext=PLCD5_ARATH target=Nodes
+find searchtext=PLCD6_ARATH target=Nodes
+find searchtext=PLCD4_ARATH target=Nodes
+find searchtext=PLCD9_ARATH target=Nodes
+find searchtext=PLCD8_ARATH target=Nodes
+select induced network
+set color=0  255    0
+deselect all
+find searchtext=PLCZ1_CHICK target=Nodes
+find searchtext=PLCZ1_MOUSE target=Nodes
+find searchtext=PLCZ1_RAT target=Nodes
+find searchtext=PLCZ1_HUMAN target=Nodes
+find searchtext=PLCZ1_MACFA target=Nodes
+find searchtext=PLCZ1_BOVIN target=Nodes
+find searchtext=PLCZ1_PIG target=Nodes
+select induced network
+set color=255    0  255
+deselect all
+find searchtext=PLCG2_HUMAN target=Nodes
+find searchtext=PLCG2_RAT target=Nodes
+find searchtext=PLCG2_MOUSE target=Nodes
+find searchtext=PLCG1_HUMAN target=Nodes
+find searchtext=PLCG1_BOVIN target=Nodes
+find searchtext=PLCG1_RAT target=Nodes
+find searchtext=PLCG1_MOUSE target=Nodes
+select induced network
+set color=0  255  255
+deselect all
+find searchtext=PLCL1_HUMAN target=Nodes
+find searchtext=PLCL1_MOUSE target=Nodes
+find searchtext=PLCL1_RAT target=Nodes
+find searchtext=PLCL2_HUMAN target=Nodes
+find searchtext=PLCL2_MOUSE target=Nodes
+select induced network
+set color=255    0  127
+deselect all
+find searchtext=PLCH1_HUMAN target=Nodes
+find searchtext=PLCH1_MOUSE target=Nodes
+find searchtext=PLCH2_HUMAN target=Nodes
+find searchtext=PLCH2_MOUSE target=Nodes
+select induced network
+set color=127    0  255
+deselect all
+find searchtext=PLCE1_RAT target=Nodes
+find searchtext=PLCE1_MOUSE target=Nodes
+find searchtext=PLCE1_HUMAN target=Nodes
+select induced network
+set color=153    0    0
+deselect all
+find searchtext=PLC1_SCHPO target=Nodes
+find searchtext=PLC1_YEAST target=Nodes
+find searchtext=PLC1_CANAX target=Nodes
+select induced network
+set color=255  178  102
+deselect all
+select all
+set drawer=RadialPhylogram
+show scalebar=false
+deselect all
+exportimage file='/home/arjen/16/PLC/Train/Training_Output/Dendroscope/Dendroscope_Final.png'format=PNG REPLACE=true
+exportimage file='/home/arjen/16/PLC/Train/Training_Output/Dendroscope/Dendroscope_Final.svg'format=SVG REPLACE=true
+save format=nexml file='/home/arjen/16/PLC/Train/Training_Output/Dendroscope/Dendroscope_Final.nexml'
+quit
+END

@@ -1,0 +1,463 @@
+#!/bin/csh
+Dendroscope -g -E <<END
+open file='/home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/MidPoint_Tree'
+show nodelabels=false
+show edgelabels=false
+show edgeweights=false
+find searchtext=PT04s19890 target=Nodes
+find searchtext=PT1310s00b target=Nodes
+find searchtext=PT04s19840 target=Nodes
+find searchtext=PT1310s00a target=Nodes
+find searchtext=PT04s19860 target=Nodes
+find searchtext=PT09s15010 target=Nodes
+find searchtext=PT09s05450 target=Nodes
+find searchtext=PT09s05440 target=Nodes
+find searchtext=PT09s04410 target=Nodes
+find searchtext=PT0187s002 target=Nodes
+find searchtext=AT2G29500 target=Nodes
+find searchtext=AT1G59860 target=Nodes
+find searchtext=AT1G07400 target=Nodes
+find searchtext=PT19s11060 target=Nodes
+find searchtext=PT09s15020 target=Nodes
+find searchtext=GM13g24460 target=Nodes
+find searchtext=GM07g32110 target=Nodes
+find searchtext=GM07g32030 target=Nodes
+find searchtext=GM07g32090 target=Nodes
+find searchtext=GM13g24510 target=Nodes
+find searchtext=GM13g24480 target=Nodes
+find searchtext=GM13g24440 target=Nodes
+find searchtext=GM13g24490 target=Nodes
+find searchtext=GM07g32050 target=Nodes
+find searchtext=GM07g32070 target=Nodes
+find searchtext=GM08g07350 target=Nodes
+find searchtext=GM08g07340 target=Nodes
+find searchtext=GM08g07330 target=Nodes
+find searchtext=GM06g16490 target=Nodes
+find searchtext=GM04g38530 target=Nodes
+find searchtext=PT19s11050 target=Nodes
+find searchtext=PT10s20300 target=Nodes
+find searchtext=GM14g06910 target=Nodes
+find searchtext=PT08s06260 target=Nodes
+find searchtext=VV4227283 target=Nodes
+find searchtext=VV4195571 target=Nodes
+find searchtext=CS1647901 target=Nodes
+find searchtext=CS1646801 target=Nodes
+find searchtext=CS1647001 target=Nodes
+find searchtext=CS1646901 target=Nodes
+find searchtext=CS1647801 target=Nodes
+find searchtext=CS1647601 target=Nodes
+find searchtext=CS1363901 target=Nodes
+find searchtext=VV8901781 target=Nodes
+find searchtext=PT06s09460 target=Nodes
+find searchtext=GM01g26570 target=Nodes
+find searchtext=VV6524262 target=Nodes
+find searchtext=VV4149323 target=Nodes
+find searchtext=VV4113361 target=Nodes
+find searchtext=PT01s24560 target=Nodes
+find searchtext=VV4234777 target=Nodes
+find searchtext=GM14g06900 target=Nodes
+find searchtext=GM02g42000 target=Nodes
+find searchtext=ZM4792601 target=Nodes
+find searchtext=ZM2082043 target=Nodes
+find searchtext=ZM0463821 target=Nodes
+find searchtext=OS03g16040 target=Nodes
+find searchtext=OS03g15960 target=Nodes
+find searchtext=OS03g16030 target=Nodes
+find searchtext=OS03g16020 target=Nodes
+find searchtext=ZM3066791 target=Nodes
+find searchtext=CS1467101 target=Nodes
+find searchtext=CS1467001 target=Nodes
+find searchtext=AT5G59720 target=Nodes
+find searchtext=AT3G46230 target=Nodes
+find searchtext=AT1G53540 target=Nodes
+find searchtext=ZM1582321 target=Nodes
+find searchtext=ZM3336351 target=Nodes
+find searchtext=ZM4371001 target=Nodes
+find searchtext=OS01g04380 target=Nodes
+find searchtext=OS01g04370 target=Nodes
+find searchtext=OS01g04360 target=Nodes
+find searchtext=VV4049279 target=Nodes
+find searchtext=VV4016009 target=Nodes
+find searchtext=VV4043951 target=Nodes
+find searchtext=VV4036270 target=Nodes
+find searchtext=VV4007012 target=Nodes
+find searchtext=VV4000010 target=Nodes
+find searchtext=CS0667501 target=Nodes
+select induced network
+set color=255    0    0
+deselect all
+find searchtext=AT5G12030 target=Nodes
+find searchtext=AT5G12020 target=Nodes
+find searchtext=VV1257741 target=Nodes
+find searchtext=VV1256197 target=Nodes
+find searchtext=CS2996701 target=Nodes
+find searchtext=ZM4042491 target=Nodes
+find searchtext=ZM0568571 target=Nodes
+find searchtext=ZM0124551 target=Nodes
+find searchtext=ZM0341571 target=Nodes
+find searchtext=ZM0838101 target=Nodes
+find searchtext=OS01g08860 target=Nodes
+find searchtext=GM20g01930 target=Nodes
+find searchtext=GM06g05740 target=Nodes
+find searchtext=GM04g05720 target=Nodes
+find searchtext=GM17g34230 target=Nodes
+find searchtext=GM17g34220 target=Nodes
+find searchtext=GM14g11420 target=Nodes
+find searchtext=GM14g11430 target=Nodes
+find searchtext=CS2996601 target=Nodes
+find searchtext=VV03543600 target=Nodes
+find searchtext=VV1222557 target=Nodes
+find searchtext=VV03543000 target=Nodes
+find searchtext=VV1220412 target=Nodes
+find searchtext=PT06s24030 target=Nodes
+find searchtext=VV1246479 target=Nodes
+find searchtext=VV03543300 target=Nodes
+find searchtext=VV03542800 target=Nodes
+find searchtext=VV03543500 target=Nodes
+find searchtext=VV03543400 target=Nodes
+find searchtext=VV03542900 target=Nodes
+select induced network
+set color=0    0  255
+deselect all
+find searchtext=AT3G12570 target=Nodes
+find searchtext=PT10s21340 target=Nodes
+find searchtext=PT08s05420 target=Nodes
+find searchtext=VV01656500 target=Nodes
+find searchtext=CS1723801 target=Nodes
+find searchtext=ZM0638751 target=Nodes
+find searchtext=ZM0484823 target=Nodes
+find searchtext=OS03g16910 target=Nodes
+find searchtext=ZM1964332 target=Nodes
+find searchtext=ZM1320091 target=Nodes
+find searchtext=ZM0623971 target=Nodes
+find searchtext=OS01g05790 target=Nodes
+find searchtext=ZM0181891 target=Nodes
+find searchtext=OS01g62300 target=Nodes
+find searchtext=VV03419300 target=Nodes
+find searchtext=GM19g35550 target=Nodes
+find searchtext=GM03g32840 target=Nodes
+find searchtext=GM13g19310 target=Nodes
+find searchtext=GM10g04960 target=Nodes
+find searchtext=GM13g19320 target=Nodes
+find searchtext=GM10g04980 target=Nodes
+find searchtext=CS0660902 target=Nodes
+find searchtext=AT2G37570 target=Nodes
+find searchtext=CS1753601 target=Nodes
+find searchtext=AT5G02480 target=Nodes
+select induced network
+set color=0  255    0
+deselect all
+find searchtext=PT02s00550 target=Nodes
+find searchtext=GM06g01640 target=Nodes
+find searchtext=GM04g01560 target=Nodes
+find searchtext=VV01343900 target=Nodes
+find searchtext=AT1G20910 target=Nodes
+find searchtext=AT1G76510 target=Nodes
+find searchtext=PT11s14850 target=Nodes
+find searchtext=PT01s46070 target=Nodes
+find searchtext=PT04s21870 target=Nodes
+find searchtext=GM16g21840 target=Nodes
+find searchtext=GM09g32820 target=Nodes
+find searchtext=GM11g09370 target=Nodes
+find searchtext=CS3232801 target=Nodes
+find searchtext=AT2G17410 target=Nodes
+find searchtext=ZM4218999 target=Nodes
+find searchtext=ZM1101091 target=Nodes
+find searchtext=OS02g48370 target=Nodes
+find searchtext=VV02643500 target=Nodes
+find searchtext=ZM1806544 target=Nodes
+find searchtext=ZM1058071 target=Nodes
+find searchtext=OS06g41730 target=Nodes
+select induced network
+set color=255    0  255
+deselect all
+find searchtext=PT02s00690 target=Nodes
+find searchtext=GM15g05270 target=Nodes
+find searchtext=GM08g19750 target=Nodes
+find searchtext=AT1G20870 target=Nodes
+find searchtext=VV01342300 target=Nodes
+find searchtext=PT01s24980 target=Nodes
+find searchtext=AT1G76440 target=Nodes
+find searchtext=VV01342200 target=Nodes
+find searchtext=PT13s02570 target=Nodes
+find searchtext=PT13s02560 target=Nodes
+find searchtext=CS0916301 target=Nodes
+find searchtext=VV00003300 target=Nodes
+find searchtext=VV00003000 target=Nodes
+find searchtext=PT13s02550 target=Nodes
+find searchtext=AT1G54850 target=Nodes
+find searchtext=VV00003400 target=Nodes
+find searchtext=CS0916401 target=Nodes
+find searchtext=AT1G54840 target=Nodes
+find searchtext=GM20g37630 target=Nodes
+find searchtext=GM10g29680 target=Nodes
+select induced network
+set color=0  255  255
+deselect all
+find searchtext=ZM4722661 target=Nodes
+find searchtext=OS03g06390 target=Nodes
+find searchtext=PT02s05200 target=Nodes
+find searchtext=GM02g16520 target=Nodes
+find searchtext=CS2543501 target=Nodes
+find searchtext=PT10s09640 target=Nodes
+find searchtext=PT08s15390 target=Nodes
+find searchtext=CS2394401 target=Nodes
+find searchtext=VV01799400 target=Nodes
+find searchtext=GM20g28540 target=Nodes
+find searchtext=GM10g39250 target=Nodes
+find searchtext=AT4G14830 target=Nodes
+find searchtext=AT3G22530 target=Nodes
+find searchtext=GM01g44780 target=Nodes
+find searchtext=ZM4694771 target=Nodes
+find searchtext=ZM0276951 target=Nodes
+find searchtext=OS07g07670 target=Nodes
+find searchtext=OS10g29549 target=Nodes
+select induced network
+set color=255    0  127
+deselect all
+find searchtext=VV01865400 target=Nodes
+find searchtext=AT5G51440 target=Nodes
+find searchtext=AT4G25200 target=Nodes
+find searchtext=PT09s02650 target=Nodes
+find searchtext=PT03s10860 target=Nodes
+find searchtext=GM12g01580 target=Nodes
+find searchtext=ZM0077292 target=Nodes
+find searchtext=ZM0077291 target=Nodes
+find searchtext=OS02g52150 target=Nodes
+find searchtext=ZM1359601 target=Nodes
+find searchtext=OS06g11610 target=Nodes
+find searchtext=VV00131600 target=Nodes
+find searchtext=VV00131500 target=Nodes
+find searchtext=PT03s07360 target=Nodes
+find searchtext=CS3208701 target=Nodes
+find searchtext=CS3208602 target=Nodes
+find searchtext=CS3208601 target=Nodes
+select induced network
+set color=127    0  255
+deselect all
+find searchtext=ZM3755171 target=Nodes
+find searchtext=OS11g13980 target=Nodes
+find searchtext=VV02313400 target=Nodes
+find searchtext=CS2604801 target=Nodes
+find searchtext=CS2194901 target=Nodes
+find searchtext=GM19g01440 target=Nodes
+find searchtext=GM13g04350 target=Nodes
+find searchtext=PT13s09600 target=Nodes
+find searchtext=GM16g33130 target=Nodes
+find searchtext=GM10g32000 target=Nodes
+find searchtext=GM20g35650 target=Nodes
+find searchtext=CS2378301 target=Nodes
+find searchtext=AT4G10250 target=Nodes
+find searchtext=OS04g36750 target=Nodes
+find searchtext=ZM3317011 target=Nodes
+find searchtext=ZM3468391 target=Nodes
+select induced network
+set color=153    0    0
+deselect all
+find searchtext=CS2829201 target=Nodes
+find searchtext=CS2829101 target=Nodes
+find searchtext=PT10s25180 target=Nodes
+find searchtext=PT08s01440 target=Nodes
+find searchtext=AT5G04890 target=Nodes
+find searchtext=GM15g30010 target=Nodes
+find searchtext=GM08g24710 target=Nodes
+find searchtext=GM06g47360 target=Nodes
+find searchtext=GM04g16160 target=Nodes
+find searchtext=AT3G10680 target=Nodes
+find searchtext=PT08s01460 target=Nodes
+find searchtext=PT10s25190 target=Nodes
+find searchtext=PT08s01450 target=Nodes
+find searchtext=GM08g24700 target=Nodes
+find searchtext=GM04g16140 target=Nodes
+select induced network
+set color=255  178  102
+deselect all
+find searchtext=ZM1496471 target=Nodes
+find searchtext=OS03g14180 target=Nodes
+find searchtext=OS09g17660 target=Nodes
+find searchtext=ZM1098141 target=Nodes
+find searchtext=ZM2105173 target=Nodes
+find searchtext=OS10g07200 target=Nodes
+find searchtext=ZM2021854 target=Nodes
+find searchtext=OS10g07210 target=Nodes
+find searchtext=CS2025701 target=Nodes
+find searchtext=AT4G27670 target=Nodes
+find searchtext=PT12s02930 target=Nodes
+find searchtext=GM06g14000 target=Nodes
+find searchtext=GM04g40790 target=Nodes
+find searchtext=VV03863100 target=Nodes
+select induced network
+set color=153  153    0
+deselect all
+find searchtext=PT09s15530 target=Nodes
+find searchtext=PT04s20270 target=Nodes
+find searchtext=PT04s20250 target=Nodes
+find searchtext=PT09s15520 target=Nodes
+find searchtext=PT09s15510 target=Nodes
+find searchtext=PT04s20230 target=Nodes
+find searchtext=GM14g04970 target=Nodes
+find searchtext=GM10g15950 target=Nodes
+find searchtext=VV03750900 target=Nodes
+find searchtext=AT5G20970 target=Nodes
+find searchtext=AT2G27140 target=Nodes
+find searchtext=CS1528301 target=Nodes
+find searchtext=CS1423801 target=Nodes
+select induced network
+set color=0  153    0
+deselect all
+find searchtext=OS01g40530 target=Nodes
+find searchtext=OS01g40550 target=Nodes
+find searchtext=ZM1550771 target=Nodes
+find searchtext=ZM1081181 target=Nodes
+find searchtext=ZM0996261 target=Nodes
+find searchtext=OS05g51440 target=Nodes
+find searchtext=PT12s07190 target=Nodes
+find searchtext=PT15s07600 target=Nodes
+find searchtext=GM17g10560 target=Nodes
+find searchtext=GM05g01330 target=Nodes
+find searchtext=GM06g20270 target=Nodes
+select induced network
+set color=0  153  153
+deselect all
+find searchtext=PT21s00950 target=Nodes
+find searchtext=VV00295400 target=Nodes
+find searchtext=VV00238200 target=Nodes
+find searchtext=ZM4293961 target=Nodes
+find searchtext=OS07g33350 target=Nodes
+find searchtext=CS0859301 target=Nodes
+find searchtext=GM15g11360 target=Nodes
+find searchtext=GM13g27590 target=Nodes
+find searchtext=AT4G21870 target=Nodes
+find searchtext=ZM3249561 target=Nodes
+find searchtext=OS02g03570 target=Nodes
+select induced network
+set color=153    0   76
+deselect all
+find searchtext=PT19s05360 target=Nodes
+find searchtext=PT13s05160 target=Nodes
+find searchtext=PT0464s00b target=Nodes
+find searchtext=AT1G54400 target=Nodes
+find searchtext=PT13s05170 target=Nodes
+find searchtext=PT0464s00a target=Nodes
+find searchtext=GM16g04270 target=Nodes
+find searchtext=VV02243700 target=Nodes
+find searchtext=GM09g29510 target=Nodes
+find searchtext=CS1123501 target=Nodes
+select induced network
+set color=255  153  153
+deselect all
+find searchtext=ZM0139701 target=Nodes
+find searchtext=ZM0109271 target=Nodes
+find searchtext=OS05g42120 target=Nodes
+find searchtext=PT11s13520 target=Nodes
+find searchtext=PT01s44190 target=Nodes
+find searchtext=AT5G54660 target=Nodes
+find searchtext=GM13g36220 target=Nodes
+find searchtext=GM12g34340 target=Nodes
+find searchtext=VV01458200 target=Nodes
+find searchtext=CS0597001 target=Nodes
+select induced network
+set color=160  160  160
+deselect all
+find searchtext=ZM0807241 target=Nodes
+find searchtext=OS05g23140 target=Nodes
+find searchtext=GM18g10760 target=Nodes
+find searchtext=GM08g43120 target=Nodes
+find searchtext=PT10s06320 target=Nodes
+find searchtext=GM11g37450 target=Nodes
+find searchtext=CS0753901 target=Nodes
+find searchtext=VV01030800 target=Nodes
+select induced network
+set color=201  162   26
+deselect all
+find searchtext=AT5G47600 target=Nodes
+find searchtext=AT1G12180 target=Nodes
+find searchtext=AT5G47590 target=Nodes
+find searchtext=AT4G16560 target=Nodes
+find searchtext=AT4G16550 target=Nodes
+find searchtext=AT4G16540 target=Nodes
+find searchtext=AT2G03020 target=Nodes
+select induced network
+set color=61  140  245
+deselect all
+find searchtext=VV03453800 target=Nodes
+find searchtext=VV03453700 target=Nodes
+find searchtext=GM20g30710 target=Nodes
+find searchtext=GM10g36900 target=Nodes
+find searchtext=PT05s21480 target=Nodes
+find searchtext=PT02s06830 target=Nodes
+find searchtext=AT1G76770 target=Nodes
+select induced network
+set color=212   41  249
+deselect all
+find searchtext=ZM4657231 target=Nodes
+find searchtext=OS10g30180 target=Nodes
+find searchtext=OS03g45330 target=Nodes
+find searchtext=ZM3526271 target=Nodes
+find searchtext=ZM1269721 target=Nodes
+find searchtext=OS10g30162 target=Nodes
+find searchtext=OS03g06170 target=Nodes
+select induced network
+set color=211  125  205
+deselect all
+find searchtext=ZM0981671 target=Nodes
+find searchtext=OS02g54140 target=Nodes
+find searchtext=GM16g01440 target=Nodes
+find searchtext=GM07g04860 target=Nodes
+find searchtext=PT03s06870 target=Nodes
+find searchtext=AT1G54050 target=Nodes
+find searchtext=VV01669700 target=Nodes
+select induced network
+set color=31  109  235
+deselect all
+find searchtext=ZM3352421 target=Nodes
+find searchtext=OS06g14240 target=Nodes
+find searchtext=PT17s02810 target=Nodes
+find searchtext=VV01657200 target=Nodes
+find searchtext=GM14g39560 target=Nodes
+find searchtext=GM02g41150 target=Nodes
+find searchtext=AT5G37670 target=Nodes
+select induced network
+set color=174  246  168
+deselect all
+find searchtext=OS02g10710 target=Nodes
+find searchtext=CS0964201 target=Nodes
+find searchtext=PT01s19320 target=Nodes
+find searchtext=GM08g22630 target=Nodes
+find searchtext=VV01732200 target=Nodes
+find searchtext=AT1G52560 target=Nodes
+select induced network
+set color=8  218  239
+deselect all
+find searchtext=CS1852102 target=Nodes
+find searchtext=GM14g02970 target=Nodes
+find searchtext=GM02g45810 target=Nodes
+find searchtext=VV02078300 target=Nodes
+find searchtext=PT14s13790 target=Nodes
+find searchtext=AT1G06460 target=Nodes
+select induced network
+set color=149  194  190
+deselect all
+find searchtext=ZM4492741 target=Nodes
+find searchtext=ZM1249431 target=Nodes
+find searchtext=ZM0818221 target=Nodes
+find searchtext=ZM0371461 target=Nodes
+find searchtext=OS03g45340 target=Nodes
+select induced network
+set color=86  168   45
+deselect all
+find searchtext=VV01366500 target=Nodes
+find searchtext=GM02g08400 target=Nodes
+find searchtext=VV01366300 target=Nodes
+select induced network
+set color=155    9   72
+deselect all
+select all
+set drawer=RadialPhylogram
+show scalebar=false
+deselect all
+exportimage file='/home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training_Output/Dendroscope/Dendroscope_Final.png'format=PNG REPLACE=true
+exportimage file='/home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training_Output/Dendroscope/Dendroscope_Final.svg'format=SVG REPLACE=true
+save format=nexml file='/home/arjen/HMMERCTTERv15/FinalStudies/ACD/TrainMinus/Training_Output/Dendroscope/Dendroscope_Final.nexml'
+quit
+END

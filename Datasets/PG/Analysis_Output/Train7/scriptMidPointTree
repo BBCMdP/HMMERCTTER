@@ -1,0 +1,7 @@
+#!/bin/csh
+Dendroscope -g -E <<END
+open file='/home/arjen/16/PGCleanTarget/PGTrain.tree'
+midpointroot
+save format=newick file='/home/arjen/16/PGCleanTarget/Train/MidPoint_Tree'
+quit
+END

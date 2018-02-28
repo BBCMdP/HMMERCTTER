@@ -1,0 +1,1607 @@
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+
+Command2 =
+
+perl fetching_Group_2.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_2.pl
+
+Fetching Script fetching_Group_2.pl executed!!
+mafft on fetching_Group_2.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_2.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+
+Command2 =
+
+perl fetching_Group_4.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_4.pl
+
+Fetching Script fetching_Group_4.pl executed!!
+mafft on fetching_Group_4.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_4.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_6.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_6.pl
+
+Fetching Script fetching_Group_6.pl executed!!
+mafft on fetching_Group_6.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_6.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_6.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_6.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_8.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_8.pl
+
+Fetching Script fetching_Group_8.pl executed!!
+mafft on fetching_Group_8.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_8.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_10.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_10.pl
+
+Fetching Script fetching_Group_10.pl executed!!
+mafft on fetching_Group_10.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_10.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+
+Command2 =
+
+perl fetching_Group_11.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_11.pl
+
+Fetching Script fetching_Group_11.pl executed!!
+mafft on fetching_Group_11.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_11.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_2.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_2.pl
+
+Fetching Script fetching_Group_2.pl executed!!
+mafft on fetching_Group_2.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_2.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_4.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_4.pl
+
+Fetching Script fetching_Group_4.pl executed!!
+mafft on fetching_Group_4.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_4.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_6.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_6.pl
+
+Fetching Script fetching_Group_6.pl executed!!
+mafft on fetching_Group_6.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_6.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_6.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_6.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_8.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_8.pl
+
+Fetching Script fetching_Group_8.pl executed!!
+mafft on fetching_Group_8.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_8.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_10.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_10.pl
+
+Fetching Script fetching_Group_10.pl executed!!
+mafft on fetching_Group_10.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_10.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_11.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_11.pl
+
+Fetching Script fetching_Group_11.pl executed!!
+mafft on fetching_Group_11.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_11.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_2.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_2.pl
+
+Fetching Script fetching_Group_2.pl executed!!
+mafft on fetching_Group_2.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_2.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_4.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_4.pl
+
+Fetching Script fetching_Group_4.pl executed!!
+mafft on fetching_Group_4.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_4.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_6.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_6.pl
+
+Fetching Script fetching_Group_6.pl executed!!
+mafft on fetching_Group_6.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_6.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_6.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_6.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_8.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_8.pl
+
+Fetching Script fetching_Group_8.pl executed!!
+mafft on fetching_Group_8.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_8.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_10.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_10.pl
+
+Fetching Script fetching_Group_10.pl executed!!
+mafft on fetching_Group_10.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_10.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_11.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_11.pl
+
+Fetching Script fetching_Group_11.pl executed!!
+mafft on fetching_Group_11.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_11.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_2.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_2.pl
+
+Fetching Script fetching_Group_2.pl executed!!
+mafft on fetching_Group_2.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_2.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_2.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_4.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_4.pl
+
+Fetching Script fetching_Group_4.pl executed!!
+mafft on fetching_Group_4.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_4.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_4.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_8.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_8.pl
+
+Fetching Script fetching_Group_8.pl executed!!
+mafft on fetching_Group_8.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_8.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_8.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+
+Command2 =
+
+perl fetching_Group_1.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_1.pl
+
+Fetching Script fetching_Group_1.pl executed!!
+mafft on fetching_Group_1.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_1.txt executed!!
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+
+Command2 =
+
+perl fetching_Group_3.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_3.pl
+
+Fetching Script fetching_Group_3.pl executed!!
+mafft on fetching_Group_3.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_3.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_5.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_5.pl
+
+Fetching Script fetching_Group_5.pl executed!!
+mafft on fetching_Group_5.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_5.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_7.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_7.pl
+
+Fetching Script fetching_Group_7.pl executed!!
+mafft on fetching_Group_7.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_7.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+fn_masFP: It added all sequences with better score that worse score sequences in the group
+
+Command2 =
+
+perl fetching_Group_9.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_9.pl
+
+Fetching Script fetching_Group_9.pl executed!!
+mafft on fetching_Group_9.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_9.txt executed!!
+
+Command2 =
+
+perl fetching_Group_10.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_10.pl
+
+Fetching Script fetching_Group_10.pl executed!!
+mafft on fetching_Group_10.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_10.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_10.txt executed!!
+
+Command2 =
+
+perl fetching_Group_11.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_11.pl
+
+Fetching Script fetching_Group_11.pl executed!!
+mafft on fetching_Group_11.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_11.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+
+Command2 =
+
+perl fetching_Group_11.pl
+
+
+Command =
+
+cd /home/arjen/16/PGCleanTarget/Target11/Application/Fetching;perl fetching_Group_11.pl
+
+Fetching Script fetching_Group_11.pl executed!!
+mafft on fetching_Group_11.txt executed!!
+hmmer build on /home/arjen/16/PGCleanTarget/Target11/Application/MSA_M/Mafft_Group_11.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_11.txt executed!!
+hmmer search on /home/arjen/16/PGCleanTarget/Target11/Application/Hmmr-Build/hmm_Group_11.txt executed!!

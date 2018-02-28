@@ -1,0 +1,187 @@
+#!/bin/csh
+Dendroscope -g -E <<END
+open file='/home/arjen/16/PGCleanTarget/Train11/MidPoint_Tree'
+show nodelabels=false
+show edgelabels=false
+show edgeweights=false
+find searchtext=O97400_1 target=Nodes
+find searchtext=Q07181_1 target=Nodes
+find searchtext=Q5AYH4_1 target=Nodes
+find searchtext=A1DBR6_1 target=Nodes
+find searchtext=Q9P4W2_1 target=Nodes
+find searchtext=Q2UT29_2 target=Nodes
+find searchtext=B8MW78_1 target=Nodes
+find searchtext=P47180_1 target=Nodes
+find searchtext=P26215_1 target=Nodes
+find searchtext=Q00446_1 target=Nodes
+find searchtext=P49575_1 target=Nodes
+find searchtext=P35335_2 target=Nodes
+find searchtext=P41749_1 target=Nodes
+find searchtext=B8N7Z8_1 target=Nodes
+find searchtext=A1DAQ2_1 target=Nodes
+find searchtext=Q4WBE1_1 target=Nodes
+find searchtext=B0YAH0_1 target=Nodes
+find searchtext=Q5B508_2 target=Nodes
+find searchtext=Q9P4W3_1 target=Nodes
+find searchtext=Q1HAY5_1 target=Nodes
+find searchtext=P19805_1 target=Nodes
+find searchtext=P26214_1 target=Nodes
+find searchtext=Q8NK98_2 target=Nodes
+find searchtext=Q9P359_1 target=Nodes
+find searchtext=Q9Y834_1 target=Nodes
+find searchtext=Q9Y718_1 target=Nodes
+find searchtext=O42824_1 target=Nodes
+find searchtext=Q9P4W4_1 target=Nodes
+find searchtext=Q8NK99_1 target=Nodes
+find searchtext=Q9P358_1 target=Nodes
+find searchtext=P26213_1 target=Nodes
+find searchtext=Q70HJ4_1 target=Nodes
+find searchtext=Q0CMU3_1 target=Nodes
+find searchtext=Q2UHL4_1 target=Nodes
+find searchtext=P41750_1 target=Nodes
+find searchtext=A1CIV8_1 target=Nodes
+find searchtext=Q4WQT2_1 target=Nodes
+find searchtext=A1CVV8_1 target=Nodes
+find searchtext=O59925_1 target=Nodes
+find searchtext=Q12708_1 target=Nodes
+find searchtext=O93883_1 target=Nodes
+find searchtext=Q9Y833_1 target=Nodes
+find searchtext=Q5ATQ3_1 target=Nodes
+find searchtext=Q4WR80_1 target=Nodes
+find searchtext=A1D145_1 target=Nodes
+find searchtext=O74213_1 target=Nodes
+find searchtext=Q70HJ3_1 target=Nodes
+find searchtext=Q12554_1 target=Nodes
+find searchtext=A2QL39_1 target=Nodes
+find searchtext=A2QBB6_1 target=Nodes
+find searchtext=O42809_1 target=Nodes
+select induced network
+set color=255    0    0
+deselect all
+find searchtext=P48979_1 target=Nodes
+find searchtext=O22818_1 target=Nodes
+find searchtext=P49062_1 target=Nodes
+find searchtext=P35339_1 target=Nodes
+find searchtext=P26216_1 target=Nodes
+find searchtext=P35338_1 target=Nodes
+find searchtext=Q6H9K0_1 target=Nodes
+find searchtext=P35337_1 target=Nodes
+find searchtext=P49063_2 target=Nodes
+find searchtext=Q39786_1 target=Nodes
+find searchtext=Q39766_1 target=Nodes
+find searchtext=Q40312_1 target=Nodes
+find searchtext=Q05967_1 target=Nodes
+find searchtext=P24548_1 target=Nodes
+select induced network
+set color=0    0  255
+deselect all
+find searchtext=Q00001_1 target=Nodes
+find searchtext=A2QYE5_1 target=Nodes
+find searchtext=P87160_1 target=Nodes
+find searchtext=Q5ARE6_2 target=Nodes
+find searchtext=A2R3G4_1 target=Nodes
+find searchtext=A1DED1_1 target=Nodes
+find searchtext=Q4WV23_1 target=Nodes
+find searchtext=B0Y0Q3_1 target=Nodes
+find searchtext=Q2TWN8_1 target=Nodes
+find searchtext=Q0CFC7_1 target=Nodes
+find searchtext=A2QXE8_2 target=Nodes
+find searchtext=B8NKB9_2 target=Nodes
+find searchtext=Q2U7A4_1 target=Nodes
+select induced network
+set color=0  255    0
+deselect all
+find searchtext=Q94AJ5_1 target=Nodes
+find searchtext=O23147_1 target=Nodes
+find searchtext=Q8RY29_2 target=Nodes
+find searchtext=Q02096_1 target=Nodes
+find searchtext=P35336_1 target=Nodes
+find searchtext=P48978_1 target=Nodes
+find searchtext=Q9SFB7_2 target=Nodes
+find searchtext=P05117_1 target=Nodes
+find searchtext=Q949Z1_1 target=Nodes
+find searchtext=P43212_1 target=Nodes
+find searchtext=Q9FY19_1 target=Nodes
+find searchtext=Q7M1E7_1 target=Nodes
+select induced network
+set color=255    0  255
+deselect all
+find searchtext=Q00359_1 target=Nodes
+find searchtext=Q4WCZ8_2 target=Nodes
+find searchtext=A1DLC1_2 target=Nodes
+find searchtext=B8NG16_1 target=Nodes
+find searchtext=Q27UB3_1 target=Nodes
+find searchtext=Q00293_1 target=Nodes
+find searchtext=Q0CGP0_1 target=Nodes
+find searchtext=Q5ASG9_1 target=Nodes
+find searchtext=Q27UB2_1 target=Nodes
+find searchtext=Q5ARN5_1 target=Nodes
+select induced network
+set color=0  255  255
+deselect all
+find searchtext=Q27UB1_1 target=Nodes
+find searchtext=Q0C7H7_1 target=Nodes
+find searchtext=B8NX60_1 target=Nodes
+find searchtext=Q2TW03_2 target=Nodes
+find searchtext=Q873X6_1 target=Nodes
+find searchtext=A1DAX2_1 target=Nodes
+find searchtext=Q4WBK6_2 target=Nodes
+find searchtext=B0YAA4_2 target=Nodes
+select induced network
+set color=255    0  127
+deselect all
+find searchtext=Q5B7U1_1 target=Nodes
+find searchtext=Q9UUZ2_1 target=Nodes
+find searchtext=A2QK83_1 target=Nodes
+find searchtext=B8NPS8_1 target=Nodes
+find searchtext=Q2UBD8_1 target=Nodes
+find searchtext=A1DBT5_1 target=Nodes
+find searchtext=Q4WBT4_2 target=Nodes
+find searchtext=B0Y9F8_2 target=Nodes
+select induced network
+set color=127    0  255
+deselect all
+find searchtext=A7PZL3_1 target=Nodes
+find searchtext=P27644_1 target=Nodes
+find searchtext=P15922_1 target=Nodes
+find searchtext=P18192_1 target=Nodes
+find searchtext=P26509_1 target=Nodes
+find searchtext=P58598_1 target=Nodes
+find searchtext=P20041_1 target=Nodes
+select induced network
+set color=153    0    0
+deselect all
+find searchtext=A2RAY7_1 target=Nodes
+find searchtext=A1D415_1 target=Nodes
+find searchtext=A2QG68_2 target=Nodes
+find searchtext=Q2UP32_1 target=Nodes
+find searchtext=Q2EQQ2_1 target=Nodes
+find searchtext=A2QBB4_2 target=Nodes
+select induced network
+set color=255  178  102
+deselect all
+find searchtext=A1D7I1_1 target=Nodes
+find searchtext=Q4WX94_1 target=Nodes
+find searchtext=B0XYC4_1 target=Nodes
+find searchtext=Q0CXI3_1 target=Nodes
+find searchtext=Q27UB0_1 target=Nodes
+find searchtext=Q2UQ40_1 target=Nodes
+select induced network
+set color=153  153    0
+deselect all
+find searchtext=I1BPS7_1 target=Nodes
+find searchtext=I1BYN5_1 target=Nodes
+find searchtext=I1BYM7_1 target=Nodes
+find searchtext=I1BYN6_1 target=Nodes
+select induced network
+set color=0  153    0
+deselect all
+select all
+set drawer=RadialPhylogram
+show scalebar=false
+deselect all
+exportimage file='/home/arjen/16/PGCleanTarget/Train11/Training_Output/Dendroscope/Dendroscope_Final.png'format=PNG REPLACE=true
+exportimage file='/home/arjen/16/PGCleanTarget/Train11/Training_Output/Dendroscope/Dendroscope_Final.svg'format=SVG REPLACE=true
+save format=nexml file='/home/arjen/16/PGCleanTarget/Train11/Training_Output/Dendroscope/Dendroscope_Final.nexml'
+quit
+END

@@ -1,0 +1,29 @@
+#!/bin/csh
+Dendroscope -g -E <<END
+open file='/home/arjen/16/PLC/Extract/MidPoint_Tree'
+show nodelabels=false
+show edgelabels=false
+show edgeweights=false
+find searchtext=PLC1_SCHPO target=Nodes
+select induced network
+set color=160  160  160
+show nodelabels=true
+set sparselabels=true
+show edgelabels=false
+show edgeweights=false
+set labelcolor=160  160  160
+deselect all
+find searchtext=PLC1_CANAX target=Nodes
+find searchtext=PLC1_YEAST target=Nodes
+select induced network
+set color=255    0    0
+deselect all
+select all
+set drawer=RadialPhylogram
+show scalebar=false
+deselect all
+exportimage file='/home/arjen/16/PLC/Extract/Training/Dendroscope/Dendroscope_preGroup_1.png'format=PNG REPLACE=true
+exportimage file='/home/arjen/16/PLC/Extract/Training/Dendroscope/Dendroscope_preGroup_1.svg'format=SVG REPLACE=true
+save format=nexml file='/home/arjen/16/PLC/Extract/Training/Dendroscope/Dendroscope_preGroup_1.nexml'
+quit
+END
