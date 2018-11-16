@@ -83,8 +83,8 @@ rehash();
 Folder_Application=[FolderClassification, '/Application'];
 system(['mkdir ' Folder_Application]);
 
-Folder_Group='Groups';              system(['mkdir ' Folder_Application '/' Folder_Group]');
-Folder_Fetching='Fetching';          system(['mkdir ' Folder_Application '/' Folder_Fetching]');
+Folder_Group='Groups';              system(['mkdir ' Folder_Application '/' Folder_Group]);
+Folder_Fetching='Fetching';          system(['mkdir ' Folder_Application '/' Folder_Fetching]);
 
 if isequal(Aligment_Program,'Mafft')
 Folder_MSA='MSA_M'; 
